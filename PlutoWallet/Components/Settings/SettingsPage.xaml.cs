@@ -17,6 +17,23 @@ public partial class SettingsPage : ContentPage
         await Navigation.PushAsync(new PredefinedLayoutsPage());
     }
 
+    async void OnSwitchThemeClicked(System.Object sender, Microsoft.Maui.Controls.TappedEventArgs e)
+    {
+        //await Navigation.PushAsync(new PredefinedLayoutsPage());
+        if (Application.Current.UserAppTheme == AppTheme.Dark)
+        {
+            Application.Current.UserAppTheme = AppTheme.Light;
+        }
+        else if (Application.Current.UserAppTheme == AppTheme.Light)
+        {
+            Application.Current.UserAppTheme = AppTheme.Dark;
+        }
+        else
+        {
+            Application.Current.UserAppTheme = AppTheme.Dark;
+        }
+    }
+
     async void OnLogOutClicked(System.Object sender, Microsoft.Maui.Controls.TappedEventArgs e)
     {
         Preferences.Remove("publicKey");

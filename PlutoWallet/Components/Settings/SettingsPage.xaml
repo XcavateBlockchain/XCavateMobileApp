@@ -45,7 +45,15 @@
                     </settings:GenericButton.GestureRecognizers>
 
                 </settings:GenericButton>
-                
+
+                <settings:GenericButton Title="Switch Theme">
+                    <settings:GenericButton.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnSwitchThemeClicked" />
+
+                    </settings:GenericButton.GestureRecognizers>
+
+                </settings:GenericButton>
+
                 <settings:GenericButton Title="Log out (Delete private key)">
                     <settings:GenericButton.GestureRecognizers>
                         <TapGestureRecognizer Tapped="OnLogOutClicked" />

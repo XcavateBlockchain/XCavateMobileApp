@@ -1,0 +1,3366 @@
+[33mcommit 51792bc39d9e32b4a59f8ee283e3b524a84827e8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/#59-theme-setting[m[33m, [m[1;32mfeature/#60-address-registry[m[33m)[m
+Author: smupyknight <smupyknight@outlook.com>
+Date:   Fri Dec 20 11:54:10 2024 +0000
+
+    #59 Change theme setting
+
+[33mcommit 9ad6a1a03360dc55d376183cbfe9382530da7bb8[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 83e49870 a5a0368f
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sat Nov 2 12:21:53 2024 +0100
+
+    Merge pull request #80 from mittal-parth/MnemonicsExplanationPage
+    
+    Mnemonics: Add Explanation Page
+
+[33mcommit a5a0368fa856f9d574f2ba6ab490159f9c15b25a[m
+Author: Parth Mittal <76661350+mittal-parth@users.noreply.github.com>
+Date:   Sat Nov 2 08:35:39 2024 +0000
+
+    Mnemonics: Add Explanation Page
+
+[33mcommit 509c5154923146d4f5f2ed6af9e1d5e57a7df149[m
+Merge: b48baecd 83e49870
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Oct 21 23:29:23 2024 +0200
+
+    Merge branch 'master' into devel
+
+[33mcommit 83e4987062f9d5089fe8b6801a17b08b1f2daedf[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Oct 21 23:29:03 2024 +0200
+
+    More Nft UIs
+
+[33mcommit 308da478d006990b3b1e361c5c95481cc52ad5e4[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Oct 18 20:52:57 2024 +0200
+
+    New version
+
+[33mcommit 59af33d1902c67b25910576a26c180a3dec5c4c9[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Oct 18 20:52:14 2024 +0200
+
+    Ipfs link updated
+
+[33mcommit 78a3c3f1cedbc9d5b9da2726e4409ff88db60319[m
+Merge: 5797462b b48baecd
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Oct 18 20:27:21 2024 +0200
+
+    Merge branch 'devel'
+
+[33mcommit b48baecd2a75ce021fd3ec857b668fc05ca350f2[m
+Merge: f5c52f11 652691fb
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Oct 18 20:26:59 2024 +0200
+
+    Merge branch 'FullFeaturedNftSupport' into devel
+
+[33mcommit 652691fb4de16f8a8893b172ee48e1bb0d22bd29[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Oct 18 19:29:13 2024 +0200
+
+    Update workflow
+
+[33mcommit 557c3fedba532c7d80411cef25fef5a40450e18e[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Oct 18 19:21:44 2024 +0200
+
+    UI changes and new version
+
+[33mcommit 191a471f1b8e625a2ddecd99c8b89c4eb4994dd4[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Oct 14 19:01:44 2024 +0200
+
+    Marketplace buttons
+
+[33mcommit 1f0c87a6cb0c68095aa7d73e67d7a89cd04ada70[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Oct 14 18:18:11 2024 +0200
+
+    bug fixes
+
+[33mcommit 0c86ee0ea365c08a0dc4087f4ec1f42268f6ffe1[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Oct 13 16:40:57 2024 +0200
+
+    UI improvements
+
+[33mcommit e7190291418845c948cf0fadef7b7ed0834161df[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Oct 12 22:55:56 2024 +0200
+
+    Off-chain indexer nft query
+
+[33mcommit 26b80a35a7f36ecd5a9dbbccc85c4aca90741c4a[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Oct 12 18:47:37 2024 +0200
+
+    EVM functions
+
+[33mcommit 1b95e00afcc2d577777e21d1fa9b6ca2de564193[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Oct 10 23:45:10 2024 +0200
+
+    More queries
+
+[33mcommit b17ea105420506b75b91365ffce3b531fbb887f9[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Oct 9 11:56:57 2024 +0200
+
+    Performance improvements
+
+[33mcommit a72e0af13ce0728743d7459a6b03e2c2b37ca63a[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Oct 8 18:51:32 2024 +0200
+
+    Unique NFTs and collections (base)
+
+[33mcommit 39f4fecd944a82fac8d5f29d0b87404765f2306d[m
+Merge: c1acd7d6 f5c52f11
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Oct 6 14:12:25 2024 +0200
+
+    Merge branch 'devel' into FullFeaturedNftSupport
+
+[33mcommit f5c52f1102cfb36ecf5c6ff5fd85dd5e46ebc0e8[m
+Merge: c1acd7d6 5797462b
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Oct 6 14:12:00 2024 +0200
+
+    Merge branch 'master' into devel
+
+[33mcommit 5797462bb5bd7c7c6c22403fe10c518754899dea[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Oct 2 23:22:00 2024 +0200
+
+    updated workflow
+
+[33mcommit c1acd7d6a4e4a5db2267506b146bd3f00aa50c08[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Oct 2 23:15:09 2024 +0200
+
+    updated workflow
+
+[33mcommit 1a1e9df2882642dd049e30e3706c11a181f1a91d[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Oct 2 14:11:01 2024 +0200
+
+    IAsyncEnumerable generic method
+    GetRandomCollectionsForSale
+
+[33mcommit 2943cae5124abb96609e2dba4c121adfbc605358[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Oct 1 11:31:13 2024 +0200
+
+    Load real Nfts from UniqueryPlus in UI
+
+[33mcommit dd6c068874dc079c5959fa8849f2d27449bf556c[m
+Merge: bf10d9b6 cb2215ee
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Sep 30 18:09:54 2024 +0200
+
+    Merge branch 'devel' into FullFeaturedNftSupport
+
+[33mcommit cb2215ee83e927a8f70c99f3412425109622ef80[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Sep 30 16:34:58 2024 +0200
+
+    updated workflow
+
+[33mcommit 0cc88e99ccac2cb9547b11b145bef473b6ca803f[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Sep 30 16:31:47 2024 +0200
+
+    separate UniqueryPlus solution
+
+[33mcommit c61571429c508e1b9f86dcd03cf317d090f19dae[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Sep 30 15:53:17 2024 +0200
+
+    updated workflow
+
+[33mcommit bf10d9b60a422614024f9f0a77f41d25a2e4d96f[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Sep 30 15:49:13 2024 +0200
+
+    update workflow
+
+[33mcommit fde31c124a77a6518da0e2d1600439e3563b9603[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Sep 30 15:41:24 2024 +0200
+
+    type fixed
+
+[33mcommit facfd3f7a7d0db938fb472edb3889cb1dc2ed7dc[m
+Merge: c34b1e02 42a6574d
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Sep 30 15:40:31 2024 +0200
+
+    Merge branch 'devel'
+
+[33mcommit 42a6574d61b1987e179146ed0176a30bf3f5e3df[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Sep 30 15:40:03 2024 +0200
+
+    workflow branch updated
+
+[33mcommit c34b1e021fa2fd0ed160df9d398e461b013c8052[m
+Merge: 52e2c4b9 f6f77100
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Sep 30 15:37:29 2024 +0200
+
+    Merge branch 'devel'
+
+[33mcommit f6f77100b9aa8fadec186fa22aee94a64bceee03[m
+Merge: e2d48df9 d6316c4c
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Sep 30 15:36:27 2024 +0200
+
+    Merge branch 'FullFeaturedNftSupport' into devel
+
+[33mcommit d6316c4ca9ffadc0fcc77363a2e7d3b17d17d83c[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Sep 30 15:35:59 2024 +0200
+
+    Deploy NuGet
+
+[33mcommit 91723894d82fcad2fac554ae2991cdab2a4a04a9[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Sep 30 15:25:02 2024 +0200
+
+    Updated IAsyncEnumerable test
+    NumberOfCollections method
+
+[33mcommit 99d3853fc0f7ddaabc0ed02f4e50a610f5ce5476[m
+Merge: 1acf835c e2d48df9
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Sep 29 10:34:32 2024 +0200
+
+    Merge branch 'devel' into FullFeaturedNftSupport
+
+[33mcommit e2d48df9dae845339292896e6fd900bc2389a239[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Sep 28 23:20:50 2024 +0200
+
+    removed unnecessary try catch
+
+[33mcommit 435c7d5c4b32ead84f48dcc78a016f7f9823950a[m
+Merge: 3011f5f0 4fcd8253
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Sep 28 22:30:25 2024 +0200
+
+    connection bug fixed
+
+[33mcommit 3011f5f0914b0fee2de8a2770056db943ac231ad[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Sep 28 22:27:34 2024 +0200
+
+    Connection bug fixed
+
+[33mcommit 4fcd8253663011e78ce0e23ab4ed39889568f5dc[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Sep 28 22:27:34 2024 +0200
+
+    Connection bug fixed
+
+[33mcommit 1acf835c386f0f3d475553c73661ae42726afaaf[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Sep 27 09:42:00 2024 +0200
+
+    test fixed
+
+[33mcommit e07d393def1e9907abd1d5b46ca847bed3181200[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Sep 26 20:37:07 2024 +0200
+
+    Improved UI for Nfts and Collections
+
+[33mcommit dc774d4e04589067561ab222b580f235746c6a61[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Sep 25 11:41:50 2024 +0200
+
+    NftThumbnail
+
+[33mcommit cbd700f96e7e7cebb04c345608e9eab13ae1a0ea[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Sep 25 08:30:27 2024 +0200
+
+    CollectionThumbnail
+
+[33mcommit 6a1bb3aef9a3550c40ba510322f438ffa8536ff3[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Sep 23 00:28:28 2024 +0200
+
+    ClickableCard
+
+[33mcommit ea16234e40dfdbc30bf4ba164e1ce8d0d4051565[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Sep 22 16:46:26 2024 +0200
+
+    KusamaAssetHub NftsPallet
+
+[33mcommit 596d3de85fad0ca5dbb0135b729d2e4d2c6c55ae[m
+Merge: 36626798 28eda622
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Sep 22 16:19:51 2024 +0200
+
+    Merge branch 'devel' into FullFeaturedNftSupport
+
+[33mcommit 36626798027bc79882bbabc7528d28a11175da98[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Sep 22 15:51:58 2024 +0200
+
+    Create collection
+
+[33mcommit 1426658db41b0b9ceb4c4c7204f969c0ce2ae313[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Sep 22 13:34:40 2024 +0200
+
+    Added on-chain calls
+
+[33mcommit d5656c5fbbbc95c1f4a2bbc991e6eee087845d53[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Sep 21 19:14:26 2024 +0200
+
+    CollectionStats
+    GetCollectionByCollectionId
+
+[33mcommit 8fa3f1955e9068c7a28cbd5ad5b1f6556ff72cad[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Sep 21 13:07:10 2024 +0200
+
+    Collection GetNftsOwnedByAsync
+
+[33mcommit c7114168f75560e698aed647859e2e9de2cef1f9[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Sep 21 12:08:05 2024 +0200
+
+    CollectionConfig
+
+[33mcommit 70c1977e308139792229604988343f399371fc5b[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Sep 21 10:10:25 2024 +0200
+
+    GetNftsNftsPalletOwnedByAsync
+
+[33mcommit 28eda6226019e6963686ec650f45226f5cbca6f7[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Sep 14 14:56:11 2024 +0200
+
+    Updated to newest Substrate.Net.Api
+
+[33mcommit 78d5d09a213e3a2b8dccd9ee10570ffa87676a47[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Sep 5 00:29:47 2024 +0200
+
+    Code cleanup
+
+[33mcommit 22567bfed9b7b291eb2575c299790b98fd0861dd[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Sep 5 00:21:06 2024 +0200
+
+    GetNftsInCollection for PolkadotAssetHub
+
+[33mcommit 0323c453c66ccf7d8ba2344d7108812cd593dd49[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Sep 3 18:34:05 2024 +0200
+
+    GetCollectionsOwnedByAsync PolkadotAssetHub
+
+[33mcommit b74a8fa26efc13b375dcab29865bad6c3583cec1[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Sep 1 13:45:23 2024 +0200
+
+    connection bug fixed, USD input
+
+[33mcommit be6939430eab653825025a57e5f3b6b3cd16d46f[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Aug 31 18:09:55 2024 +0200
+
+    AssetSelectButton now loads instantly
+
+[33mcommit 7d5f2241117c0cf7924a76580262bb409519c4d4[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Aug 31 13:29:33 2024 +0200
+
+    Bug fixes and performance improvements
+    Subscan account button
+
+[33mcommit 9e8a5c9e6270889a8af254907c17be9dbfa94ba9[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Aug 30 21:02:16 2024 +0200
+
+    Transfer bugs fixed
+
+[33mcommit c7dd368c97ddc572f648527024dadf4e475eaa73[m
+Merge: 935bcba4 08c66abc
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Aug 28 14:57:25 2024 +0200
+
+    Merge branch 'devel' of https://github.com/RostislavLitovkin/PlutoWallet into devel
+
+[33mcommit 935bcba4da7941126fe6e013414f6e30af3b287e[m
+Merge: d4509b3a 1bcc8914
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Aug 28 14:53:17 2024 +0200
+
+    Merge branch 'Better-test-coverage' into devel
+
+[33mcommit 08c66abc6ce292371c44343d3e98475b1decd9a9[m
+Merge: d4509b3a 1bcc8914
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Aug 28 14:53:17 2024 +0200
+
+    Merge branch 'Better-test-coverage' into devel
+
+[33mcommit d4509b3a4064cba042f342f8417dfdff6338c94f[m
+Merge: b22d8763 87ebfe2f
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Aug 28 14:53:07 2024 +0200
+
+    Merge branch 'TransactionAnalyzer' into devel
+
+[33mcommit 87ebfe2fcc017ad4cac82336f787d7e45aa22cb6[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Aug 27 20:35:34 2024 +0200
+
+    Analyzing Transfer transactions too
+
+[33mcommit 54bc50252eeeb09b46f65c1a77d6cf972ac5970b[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Aug 25 11:43:11 2024 +0200
+
+    Updated AssetSelectButton
+
+[33mcommit f94ba511dc7446d88233483556bd5b2a6baf84bb[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Aug 25 09:51:27 2024 +0200
+
+    Added Loading in the AnalyzedConfirmationView
+
+[33mcommit 1d5a3d145c2d55aacfd3e166e63c99a117f2a18b[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Aug 24 10:39:58 2024 +0200
+
+    ChainAddressViewModel loading
+
+[33mcommit 696579985fee12ddffefb80ddb357191d4416888[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Aug 23 23:42:53 2024 +0200
+
+    XCM analyzing works!
+
+[33mcommit 124abdbbb94dbfa7ee4f6319008ed33ce37c44a3[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Aug 23 14:44:50 2024 +0200
+
+    SimulateXcmCall working
+    Analyze more events
+
+[33mcommit 952f90f5f8ae41b5293254329a38c1f40292a1fa[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Aug 22 23:21:19 2024 +0200
+
+    Updated XcmEventsTest
+    Updated input type
+
+[33mcommit 8993cf2b339cb78b4664b418fd0307a0c1386b07[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Aug 22 15:08:17 2024 +0200
+
+    XcmCall chopsticks tests
+
+[33mcommit 1bcc8914c923eb75403b9af0697582b2a5fe84fa[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Aug 22 13:49:51 2024 +0200
+
+    updated tests
+
+[33mcommit b54bd4be97a18e0c7f580fb7faa787d295971657[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Aug 22 00:26:06 2024 +0200
+
+    chopsticks tests
+
+[33mcommit e4b5d99d32e7003f5b36a5bd37a16adf4ceeb869[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Aug 21 23:23:59 2024 +0200
+
+    Updated design
+
+[33mcommit 6234329255229bdc0a0ba87b8818be32cca6aaa6[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Aug 18 14:31:54 2024 +0200
+
+    TransactionAnalyzerView
+
+[33mcommit 9ab8c328ac6e418ea504b0dff3be216a5dce65a7[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Aug 16 00:24:17 2024 +0200
+
+    Events Metadata reading
+
+[33mcommit ee050fce57bfd8fb61df02127fadc45c97b026f2[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Aug 15 15:39:09 2024 +0200
+
+    Chopsticks Api receive Events
+
+[33mcommit 13f0550591531b9fffb8cc1afb8d8f07dc83041c[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Aug 14 23:55:21 2024 +0200
+
+    SimulateCallAsync working!!
+
+[33mcommit 91ce2f7adb74ea2655b895eaae36f9fbe8ddd4d8[m
+Author: Jaromir Prochazka <jaromir.prochazka03@gmail.com>
+Date:   Wed Aug 14 19:55:04 2024 +0200
+
+    Fix request body not loading. Update tests for code 400
+
+[33mcommit a065cdff7d0f9342f57f4066f5a0690a0f13b2e0[m
+Author: Jaromir Prochazka <jaromir.prochazka03@gmail.com>
+Date:   Wed Aug 14 13:42:45 2024 +0200
+
+    Add real Chopstics input tests
+
+[33mcommit 4ebfab0a47b0238cad3818309d35483bde5c8895[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Aug 14 13:16:43 2024 +0200
+
+    Updated ChopsticksModel
+
+[33mcommit 47d01c7ba984ab80537a453b123181a13fd493db[m
+Merge: 85d8d8d8 b22d8763
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Aug 14 12:46:33 2024 +0200
+
+    Merge branch 'devel' into TransactionAnalyzer
+
+[33mcommit 85d8d8d8977ff681e2408d291b62fa22e003fd08[m
+Author: Jaromir Prochazka <jaromir.prochazka03@gmail.com>
+Date:   Wed Aug 14 12:35:48 2024 +0200
+
+    Add Chopstics api and it's test
+
+[33mcommit b22d876321603fce50dbc341a9d2e3b5a064118f[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Aug 14 11:59:37 2024 +0200
+
+    NoNftsView
+
+[33mcommit c8da330006aa2b21a99a3ab0d809bc581e09f2ad[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Aug 14 10:01:45 2024 +0200
+
+    CheckMetadataHash fix
+
+[33mcommit 8f96b0d86088ef21982e05b4f449ff80781a2ac0[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Aug 10 14:55:26 2024 +0200
+
+    More tests
+
+[33mcommit 018e3577b503220c9c74a23f12868d245b123d66[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Aug 9 14:48:44 2024 +0200
+
+    Polkadot People Chain, Network Connection optimisations, Identity View updated, Balances loading updated
+
+[33mcommit 7c5e92b7ba21f192b0e727e7eb1e78e19ff7cbd3[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Aug 6 23:09:14 2024 +0200
+
+    Transfer view update
+
+[33mcommit 37480563d981bfff3ba3d74586e463c60d975055[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Aug 6 20:52:37 2024 +0200
+
+    Plutonication notification updated
+
+[33mcommit fc2e925c58ffdf1f4618427b5b5263860445fd8e[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Aug 1 19:33:15 2024 +0200
+
+    Plutonication notification now working
+    Notification request
+
+[33mcommit f7764060c301611f08fb45dc80e946c746eca6a2[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Aug 1 11:10:14 2024 +0200
+
+    update packages
+
+[33mcommit 4852fee1515770b9c101c3d64c5b560e228b247a[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Aug 1 11:04:47 2024 +0200
+
+    update package
+
+[33mcommit ff504f20e777608e579862bb41df63fb1aa356b3[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Aug 1 10:38:25 2024 +0200
+
+    update packages
+
+[33mcommit 4e07942d9fc413d6867d45305f21e29de3af8d38[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jul 31 23:05:59 2024 +0200
+
+    update version
+
+[33mcommit e8f66ad2615a0057331fd81404bd8fe967343491[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jul 31 21:36:43 2024 +0200
+
+    NFT loading fix
+
+[33mcommit f7a1fd243fe445d8d139aeb1fe5f2fc6c4610947[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jul 31 21:22:34 2024 +0200
+
+    Developer settings
+
+[33mcommit 3d35b1091e8f2344f3c895ff8f0f32320c2e340d[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jul 31 19:04:13 2024 +0200
+
+    Updated network icons, Kusama connection fixed
+
+[33mcommit e67f0fedc1a35879ee40b5437d6de189988ed1ff[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jul 31 13:51:59 2024 +0200
+
+    App icon updated
+
+[33mcommit 86b69f89845749b3c1fb5284048368bd6519794d[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jul 31 13:35:10 2024 +0200
+
+    Open in Subscan button
+
+[33mcommit cf8bbfd37be2c5a7fe18ea8651502c60a11c453d[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jul 31 09:36:25 2024 +0200
+
+    Update Extrinsic Status view close button
+
+[33mcommit 4f877749c96f5dc74c4d032aaf3d1e06757f16fe[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Jul 30 23:08:48 2024 +0200
+
+    Omnipool liquidity calculations updated
+
+[33mcommit cd2bc8af2a88b2697c211e0b5a8d7bf112a87242[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Jul 21 20:27:41 2024 +0200
+
+    Display Liquidity mining
+
+[33mcommit 3a1adb8727710d7907ea8675bdeb22ebe9d5dbcc[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Jul 21 14:46:00 2024 +0200
+
+    Updated Endpoint Keys and SubstrateClientExt logic to be better maintainable
+
+[33mcommit 6a9d9b7db904da80fda72d338023e3f6b5811c9e[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Jul 20 09:06:53 2024 +0200
+
+    HydrationLiquidityMiningModel
+
+[33mcommit b4a860c97db28309cbd2e5e0867b27505f500243[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Jul 18 20:25:34 2024 +0200
+
+    PlutoExpress Hydration GetAllAssets
+
+[33mcommit 1cd70672cf11b159380af2159dd597d930cee491[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Jul 18 09:32:42 2024 +0200
+
+    Updated Splash screen
+
+[33mcommit 33ef0c98914c4933e23bf12e7e8561fd1742a382[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Jul 16 19:03:16 2024 +0200
+
+    Substrate.Net.Toolchain shell script
+
+[33mcommit 08fd45077d0937bea4320dc164cfc2dc21fecc1b[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Jul 16 19:01:55 2024 +0200
+
+    Substrate.Net.Toolchain shell script
+
+[33mcommit 6c3635fc31274a3e86eb2946ccb309f3687bc014[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Jul 15 19:58:36 2024 +0200
+
+    Bajun network
+
+[33mcommit c13706f3ab7dd8cf825aa6a536ea806d1b61cc32[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Jul 15 18:55:48 2024 +0200
+
+    Polkadot Vault signing fixed
+
+[33mcommit 1f628b9a7a0e8bfd42942e36d16791f5b70cce9d[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Jul 7 12:54:28 2024 +0200
+
+    Event analysation
+
+[33mcommit 3052dc7ae1520eb6389f9823a170dd824a7036c0[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Jul 2 23:39:06 2024 +0200
+
+    Hyydration update
+
+[33mcommit 57d852a1ac9314b27921b51b5a770ec53532e217[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jun 26 22:48:14 2024 +0200
+
+    Log removed from .gitignore
+
+[33mcommit bcfa859dec72cbe9cea3674324177965301a8baa[m
+Merge: 97ebc80b 0808e0ef
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jun 26 18:53:19 2024 +0200
+
+    Merge branch 'android-foreground-service' into devel
+
+[33mcommit 97ebc80b8620fb9573655ddfbb0aad89d244f610[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jun 26 18:10:56 2024 +0200
+
+    updated multichain structure
+
+[33mcommit 0808e0ef82fdf8bf45970624a0d298d4a44d5143[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jun 26 17:04:40 2024 +0200
+
+    Working foreground service
+
+[33mcommit 5a38cd8aeb07783e0222a8a87b7bf5989a4ec2c5[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jun 26 11:15:48 2024 +0200
+
+    plutonication foreground service (incomplete)
+
+[33mcommit a0d70ced3b8de3b0aaed9745b36b2ce70a49719e[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jun 19 20:08:35 2024 +0200
+
+    Password eyeball
+
+[33mcommit 4ef561c6dfaa3822d449e80ffff280a235fdc007[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Jun 18 17:04:58 2024 +0200
+
+    Updated to .net 8
+
+[33mcommit 0669a78bdbf73e634bf4959d9bfd43c669f1f3a5[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Jun 18 00:18:25 2024 +0200
+
+    Updated extrinsic status
+
+[33mcommit b0f2fc4b18d4ae2360ee60342304bc6541c2ff0c[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Jun 17 23:28:18 2024 +0200
+
+    ConnectionRequestView connection status
+
+[33mcommit 8245f7680089afb74c8776bb285257a82d1d3247[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Jun 17 01:31:02 2024 +0200
+
+    plutonication dApp connection confirmation
+
+[33mcommit 2e1bafaf268c6a2c669a46944f59a78bc26f4db8[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jun 12 22:41:11 2024 +0200
+
+    Export layout png button
+
+[33mcommit 730c50823946c188f79ec71b3b4f722c9a6a1de6[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jun 12 22:02:32 2024 +0200
+
+    Show Copy address in AddressQrView
+
+[33mcommit 4956f859aa9a94d000cb80b363c009c6f619ee41[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jun 12 13:23:41 2024 +0200
+
+    bottom popup card confirm
+
+[33mcommit a90aa807062def3685a8f02948afdbff8f03211e[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Mar 31 18:26:58 2024 +0200
+
+    New version
+
+[33mcommit f1053c169319c3f4febcc10a637b69d32e19479f[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Mar 31 18:26:32 2024 +0200
+
+    Fixed image loading bug
+
+[33mcommit bc9627611f803f9e3351b97d2f1a2985b7dc86c8[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Mar 31 12:44:47 2024 +0200
+
+    Better error handling
+
+[33mcommit d8ee41b4d661f31ac3172b9133d95762d56f9382[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Mar 29 18:50:18 2024 +0100
+
+    Galaxy Logic Game predefined layout added
+
+[33mcommit 4eb1377edecf591c24541086825a75f4798656ce[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Mar 24 21:49:15 2024 +0100
+
+    Plutonication deeplink. further improved tests. Update view.
+
+[33mcommit f677290cdfcff1dccec8d847f424a35cf98221a6[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Feb 5 10:49:07 2024 +0100
+
+    Update Plutonication + bug fixes
+
+[33mcommit 060c1602c9cc2f47696de500610f731d1d4a0a95[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Feb 3 16:48:05 2024 +0100
+
+    delete .gitmodules
+
+[33mcommit ac6bd19b084e50977196e733d106a1dd403e2330[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Feb 3 16:47:40 2024 +0100
+
+    Newest Plutonication + bug fixes
+
+[33mcommit c22456145ec0bff9256fc26c01720c8b1c6bc8d5[m
+Merge: ede99f22 92296eab
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Jan 27 11:49:06 2024 +0100
+
+    Merge branch 'NFT-galery-view' into devel
+
+[33mcommit 92296eabacd2eb081813f85bb86775dc5fc87200[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Jan 27 09:48:04 2024 +0100
+
+    vDOT staking view
+
+[33mcommit a3ff69bf13ab3d1077d1ea47aab9b0915229d5cb[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Jan 26 12:14:49 2024 +0100
+
+    Fee asset view (incomplete)
+    fixed endpoint bugs + tests
+
+[33mcommit df67a10d3ae8287e46f37cbd8a723af43eb6b532[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jan 24 19:58:22 2024 +0100
+
+    AssetSelection bugs fixed
+
+[33mcommit b0c3d787fc258b91a95ebe12f2e889f7365ac290[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jan 24 19:15:48 2024 +0100
+
+    Bifrost tokens
+
+[33mcommit 30bfe0544c02b676c5c7d779ad6e6f504011711e[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jan 24 17:24:44 2024 +0100
+
+    Bifrost assets/tokens test
+
+[33mcommit c02997d7d8fbbacc1a168ccdb0de222f7274510a[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Jan 23 22:32:38 2024 +0100
+
+    FavouriteNftsGalery
+
+[33mcommit ede99f227fd3500b620435bbceb7af2c09d82a48[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Jan 22 11:11:53 2024 +0100
+
+    updated tests
+
+[33mcommit 9ec944c6303a4f70ae3a54a29c506b903e2e9bf2[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Dec 30 14:59:02 2023 +0100
+
+    New version
+
+[33mcommit 88c62c9308c55442d0c72d2606e1f08d7024acb2[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Dec 30 14:42:24 2023 +0100
+
+    Transaction request updated
+
+[33mcommit a62a31436c7f7102fc79f66077584c287b29dab7[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Dec 29 20:29:24 2023 +0100
+
+    HydraDX test and bug fixed
+
+[33mcommit a76ec9bc3d2790eae391937f7ab7aa8627985a0b[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Dec 29 19:34:42 2023 +0100
+
+    Update mnemonics logic
+
+[33mcommit fb6964f8ef9d224f1a9c8f27428031f9ccd3a610[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Dec 24 21:52:14 2023 +0100
+
+    More endpoint tests
+
+[33mcommit 46317869f41dddb73f6a83c453383f31a1936493[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Dec 24 14:19:14 2023 +0100
+
+    updated test
+
+[33mcommit 0ec9a849b1af68d5a393b442c98581a1034269bf[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Dec 24 14:13:05 2023 +0100
+
+    ChainIcons bug fixed
+
+[33mcommit 5067629b73aa6e43a3ce8d4d3f940c19636fddb4[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Dec 23 23:32:20 2023 +0100
+
+    Multi-websocket client
+
+[33mcommit 10325c258c7fbe83947e85fec270c85e38e46791[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Dec 23 15:17:38 2023 +0100
+
+    Updated structure
+
+[33mcommit 6b565e94f47ac5bee9fcf2b63c10d469f4606aa0[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Dec 23 15:17:24 2023 +0100
+
+    Updated structure
+
+[33mcommit 795482c4cbd3d061229dd3ae6f46221a77a3e4a2[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Nov 19 15:21:45 2023 +0100
+
+    updated android manifest
+
+[33mcommit dcb5bae65978b702a9169714714fe96e6b79b862[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Nov 19 12:19:08 2023 +0100
+
+    New version
+
+[33mcommit 9bac83531ffde6a7944c399d67a6e7dabb984891[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Nov 19 12:17:49 2023 +0100
+
+    Save password bug fix
+
+[33mcommit a77d6dec06452b14b0b6a7526d48c5a2a644412c[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Nov 18 16:28:44 2023 +0100
+
+    Better oracle prices loading
+
+[33mcommit 00e684a6a5cccd6b85631e4c85a664583d2be7f6[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Nov 18 16:23:11 2023 +0100
+
+    Improved Network select
+
+[33mcommit a5ea84c30470e33c06fc5310b1043cfa98b0005a[m
+Merge: 930f0c00 ce597f75
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Nov 18 16:22:51 2023 +0100
+
+    Merge branch 'HydraDX' into devel
+
+[33mcommit ce597f7575a1f371bc6a17f3105c1619fb25ff62[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Nov 17 23:55:19 2023 +0100
+
+    Price oracle
+
+[33mcommit a1e08856dda4f005f27da277a3d176a1838b5e33[m
+Merge: 3ad82e81 930f0c00
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Nov 17 11:38:19 2023 +0100
+
+    Merge branch 'devel' into HydraDX
+
+[33mcommit 930f0c008069e61731086438d0e2b2e9aa412a3b[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Nov 10 13:47:52 2023 +0100
+
+    ReceiveAndTransferView
+
+[33mcommit 52e2c4b9d31d6bce530f0068bb7ba3af99ed72f5[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Thu Nov 9 23:22:46 2023 +0100
+
+    Update README.md
+
+[33mcommit 965fd8e6f8d02187a388d0850cf82e9b156cbeda[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Thu Nov 9 12:13:55 2023 +0100
+
+    Update README.md
+
+[33mcommit 65464fd60d6c1ced7f230b42911a927dd2eab2bb[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Thu Nov 9 11:51:16 2023 +0100
+
+    Update README.md
+
+[33mcommit 8b26794158e134478bb1ef573522f883784b5305[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Thu Nov 9 10:54:19 2023 +0100
+
+    Update README.md
+
+[33mcommit 808b71b37c1574cce736011a8bf2a5541fbfe53f[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Thu Nov 9 10:53:46 2023 +0100
+
+    Update README.md
+
+[33mcommit 8aba272986a6fc463cbd8b90deda7e0a67d6d3f9[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Thu Nov 9 10:51:45 2023 +0100
+
+    Update README.md
+
+[33mcommit f226717136c5b21cbfa006bbcf71d9306169c6b4[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Nov 4 19:43:46 2023 +0100
+
+    New plutonication ready
+
+[33mcommit 1ccab1fe622e6d4667342f01381cdfd3b6a2c4fe[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Nov 4 16:19:44 2023 +0100
+
+    NFT icons fixed
+
+[33mcommit 70fbf9fe8de4e762ca69dd733169b7bc63a8e410[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Nov 4 15:34:13 2023 +0100
+
+    Loading optimisations
+
+[33mcommit eefeb749e3e9433bd9e1b5860fd6676d1b8b508a[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Nov 2 17:42:24 2023 +0100
+
+    Optimisation
+
+[33mcommit 499b6f1b820b4759a1a961c73e610cae95937c9f[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Nov 2 16:24:00 2023 +0100
+
+    Improved security
+
+[33mcommit f0a7cfcf5a464a0741492dad33dde6f1eef69360[m
+Merge: 734b0019 748870c7
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Oct 30 13:08:37 2023 +0100
+
+    Merge branch 'AlephZeroId' into devel
+
+[33mcommit 748870c717c8cf31cebac9dfc39d8a5587e7a60e[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Oct 29 23:25:02 2023 +0100
+
+    AzeroId Nfts reserved until property added
+
+[33mcommit facc9a2260063d28565054de2f188654fb3440bf[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Oct 29 20:58:50 2023 +0100
+
+    Show reserved until information
+
+[33mcommit 53eeae2e95779802336956b832fbf887f03e9e70[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Oct 29 20:33:01 2023 +0100
+
+    AzeroId support for transfers
+
+[33mcommit acbb59827d844c28ba8c991e4eb11eac58e66d92[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Oct 28 22:37:08 2023 +0200
+
+    now using `AzeroIdResolver` package
+
+[33mcommit ac32bd3e7b2a6e9f1a9795ef27c8dd822f268a7d[m
+Merge: 55a64c51 734b0019
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Oct 28 22:11:08 2023 +0200
+
+    Merge branch 'devel' into AlephZeroId
+
+[33mcommit 734b00195ac416a4c225eb6b634d92484759404c[m
+Merge: 92405896 394f8722
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Oct 28 20:27:57 2023 +0200
+
+    Merge branch 'Show-TransactionRequest-data' into devel
+
+[33mcommit 394f87220ae71b723c8a736023ffecfb4a7d9686[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Oct 28 20:27:41 2023 +0200
+
+    Updated `MethodToString` logic
+
+[33mcommit 3ec691b62cff49f1224458ca4ab7c40a516d5bc9[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Oct 28 19:13:33 2023 +0200
+
+    Better design
+
+[33mcommit 53a8133e9aa4f9e80f9df9b43d27cb73796db29a[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Oct 25 12:21:28 2023 +0200
+
+    ExtrinsicStatusView swipe bug fixed for android
+
+[33mcommit a5278722876e13f51404db61a7db2f09385e8d12[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Oct 24 17:31:51 2023 +0200
+
+    Improved icons
+
+[33mcommit 7c29412f8d09923909819b61d9bc1b9eb8a434a7[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Oct 24 10:00:43 2023 +0200
+
+    Improved extrinsic status view
+
+[33mcommit a553ff2386a80ae99fab53ce1de6008ca0b8586b[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Oct 21 14:57:21 2023 +0200
+
+    bug fixed
+
+[33mcommit 757f691f2790998a1a09a3d35d6c69be34512dab[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Oct 21 12:43:56 2023 +0200
+
+    temp metadata to string coversion
+
+[33mcommit 924058968bf4f564c3fe8f974a989b87f83c6a5c[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Oct 18 17:35:21 2023 +0200
+
+    Added calamar link to the ExtrinsicStatus
+
+[33mcommit 7c805b7d3d7661d1a8790f47c812483c7d0c63bb[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Oct 15 11:10:56 2023 +0200
+
+    NetworkSelectPopup + bug fixes
+
+[33mcommit f5de625589b4bae79fdb95f3eb5662fd63ac4c1e[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Oct 14 10:44:49 2023 +0200
+
+    HydraDX Predefined layout
+
+[33mcommit 23f999fb43b804ce6efba6002b35bf6f1ceef22b[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Oct 14 10:16:41 2023 +0200
+
+    XCavate endpoint
+
+[33mcommit 30bb0626a6970b35af1f9bb0a7e8e91c14805878[m
+Merge: 1d6bf18c 3d1a61ed
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Oct 13 23:47:49 2023 +0200
+
+    Merge branch 'Referenda' into devel
+
+[33mcommit 3d1a61edaff26e941f478d1cfb0fbe6ddc1187a9[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Oct 13 23:47:34 2023 +0200
+
+    ReferendaView added
+
+[33mcommit b8b7608870e5fb90b259dd4cef10f22409b65910[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Oct 11 23:18:09 2023 +0200
+
+    temp unfinished work
+
+[33mcommit 664d65f6a0e58b9aebb1b77174805c541b745cf8[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Oct 10 12:38:17 2023 +0200
+
+    ConvictionVoting pallet added
+
+[33mcommit 1d6bf18c4060f981d22c2fde5eb6a5d0e2e448f6[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Oct 10 10:44:25 2023 +0200
+
+    Address scanning improved
+
+[33mcommit 870db8b432fd4e2686ae075970ef3b7a8d35ccdc[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Oct 9 15:58:27 2023 +0200
+
+    Universal scanner address recognition added
+
+[33mcommit b4b6039715a0e26693a211d426b1be93e6e2267b[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Oct 9 11:04:07 2023 +0200
+
+    Polkadot Vault integration
+
+[33mcommit c064f82d301f262f50bca8a859bf691a259d1dbc[m
+Merge: 53633cf7 dece2e2d
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Oct 7 21:25:52 2023 +0200
+
+    Merge branch 'Identity' into devel
+
+[33mcommit dece2e2d509e3ec67ff2b01a11f4559df822e585[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Oct 7 21:25:41 2023 +0200
+
+    IdentityAddressView + updated QR Scanner
+
+[33mcommit 09c5aadea50aa704fa5567d50df3e7b931c35acc[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Oct 4 14:52:50 2023 +0200
+
+    IdentityView base
+
+[33mcommit 4613e59a4944911af06cba80025d54f57623bc35[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Oct 2 10:45:21 2023 +0200
+
+    Update README.md
+
+[33mcommit 53633cf7a0983b10dde63f109671855bcaba7f92[m
+Merge: fa7b5e31 3ad82e81
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Oct 1 16:58:09 2023 +0200
+
+    Merge branch 'HydraDX' into devel
+
+[33mcommit 3ad82e81ef0c72ad361ed5dde7ccc3e34458c21d[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Oct 1 16:58:00 2023 +0200
+
+    DCAView
+
+[33mcommit fa7b5e31d055631a9e6f3eb334333ada4d36ee44[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Sep 29 23:35:02 2023 +0200
+
+    PlutoWallet.NetApiExt renamed to Substrate.NetApi
+    + pallet_dca
+
+[33mcommit 3774a42cb50c53a4860fb3c27ac37ff2d9c4a43b[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Sep 29 23:22:41 2023 +0200
+
+    Assets and Tokens pallet decimals added
+
+[33mcommit d079fe30ce94ca2a298babe63f91f835fad3cb4c[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Fri Sep 29 21:23:04 2023 +0200
+
+    Update README.md
+
+[33mcommit 48871af8e7ab8dd304a3db0096b696aaeaca5ad3[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Sep 29 20:53:55 2023 +0200
+
+    UI/UX improvements
+
+[33mcommit 376e0064a55b248ea64faf8339ffda4ed23a06cd[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Sep 29 10:10:43 2023 +0200
+
+    UI alignment improvements
+
+[33mcommit ecccac7cb28289fde8d784c66fad7a3caccea922[m
+Merge: 03fee18f 789c5612
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Sep 28 22:47:02 2023 +0200
+
+    Merge branch 'NFTLoadingView' into devel
+
+[33mcommit 789c5612b7310af572c299ba69ec41847fcf89e2[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Sep 28 22:46:07 2023 +0200
+
+    Loading bug fixed
+
+[33mcommit 03fee18fb0a28e34e0647106806f39c03371054c[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Sep 28 19:38:27 2023 +0200
+
+    OmnipoolLiquidityView update
+
+[33mcommit 2a98acda52f6459012e40f06bd0ff6f18aca2aad[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Sep 28 17:47:14 2023 +0200
+
+    OmnipoolLiquidityView
+
+[33mcommit e6e83de8d349a642afbe08c02a569c2f083e98f1[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Sep 27 18:33:58 2023 +0200
+
+    NftLoadingView
+
+[33mcommit 5b468a783ec439c23b7299b736c56d3469e4d3e0[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Sep 27 16:32:47 2023 +0200
+
+    Bifrost added
+
+[33mcommit b9694f4b1c8ef23a90737753901ddbc90d3e34ec[m
+Merge: 1ce3dced 352d16ac
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Sep 26 12:25:36 2023 +0200
+
+    Merge branch 'master' into devel
+
+[33mcommit 1ce3dced075a0c8734667753481f8eced5f47642[m
+Merge: c0c945be 55a64c51
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Sep 26 12:24:22 2023 +0200
+
+    Merge branch 'AlephZeroId' into devel
+
+[33mcommit 55a64c51a84a22b43712f1d0de070f725a13d6fc[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Sep 26 12:24:10 2023 +0200
+
+    tzero updated
+
+[33mcommit a0be1b1e833705ed3a817b9a8e3ed3d0afc32914[m
+Merge: 82a532fa c0c945be
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Sep 26 11:10:31 2023 +0200
+
+    Merge branch 'devel' into AlephZeroId
+
+[33mcommit c0c945bead6e5f0038f9fa99f1fe917abfa675e0[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Sep 26 09:07:42 2023 +0200
+
+    update .gitignore
+
+[33mcommit 352d16ac685510a467ddba4a33acdfdefced69ce[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Sep 25 21:07:16 2023 +0200
+
+    Update README.md
+
+[33mcommit 14a58eb7bc87bcc0184c1a21c8b352165971dfd5[m
+Merge: fe47f069 2e4443a6
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Sep 25 17:31:49 2023 +0200
+
+    Merge branch 'AssetSelect' into devel
+
+[33mcommit 2e4443a69a57a4276acd1cc5b1a3790ddaa7f3ef[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Sep 25 15:59:40 2023 +0200
+
+    Tokens pallet added to BalanceView
+
+[33mcommit 07783daeb9e84767fa5fffe072b1af8f37625fb1[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Sep 24 20:30:55 2023 +0200
+
+    Balance reload bug fixed
+
+[33mcommit 6dcf2377737327de7b252756489102b3f51f5d55[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Sep 24 20:13:03 2023 +0200
+
+    Asset transfer
+
+[33mcommit c76fa166d7f28e6db343efac854f48354490ec68[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Sep 23 21:34:13 2023 +0200
+
+    Code cleanup
+
+[33mcommit ce7e1f261546bdc3f5964f2b6c733bf3672d2d1d[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Sep 23 21:31:13 2023 +0200
+
+    AssetSelect
+
+[33mcommit fe47f069b08a992712f41cc77bbd5ce0a69b6664[m
+Merge: 874909f6 ae36df4d
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Sep 18 21:32:52 2023 +0200
+
+    Merge remote-tracking branch 'origin/master' into devel
+
+[33mcommit ae36df4da80da4a8ca084a0adb36785960eb2ab1[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Sep 18 21:32:33 2023 +0200
+
+    Update README.md
+
+[33mcommit 874909f645d15b6d2c2b319af06be25da1d0408e[m
+Merge: 5534cb68 82a532fa
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Sep 18 21:30:15 2023 +0200
+
+    Merge branch 'AlephZeroId' into devel
+
+[33mcommit 82a532fa3655807daf4c92664204427d39b8c6f5[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Sep 18 21:30:03 2023 +0200
+
+    Azero Id Nfts
+
+[33mcommit f04a8ec9c85422866f826e4ee6a64722186825c6[m
+Merge: dee4151d 5534cb68
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Sep 18 19:32:56 2023 +0200
+
+    Merge branch 'devel' into AlephZeroId
+
+[33mcommit 5534cb68a43d49459e3caae292300d6b107ac335[m
+Merge: a55fc2c2 8ef3a05b
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Sep 12 04:50:40 2023 +0200
+
+    Merge remote-tracking branch 'origin/devel' into devel
+
+[33mcommit a55fc2c2417dcdc4a0324191f1be18c0ae90ed7a[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Sep 12 04:49:37 2023 +0200
+
+    First release
+
+[33mcommit 8ef3a05b7f747ffff085f85c90eda78b82848db7[m
+Merge: 0bf65e98 1f7c5c7a
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Sep 12 04:47:25 2023 +0200
+
+    Merge remote-tracking branch 'origin/devel' into devel
+
+[33mcommit 0bf65e981d60eb13e183ede6970be98ef5a1ff93[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Sep 12 04:47:02 2023 +0200
+
+    First release
+
+[33mcommit 1f7c5c7ad69c259845db9f4bdbefe114019456d4[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Wed Sep 6 17:34:20 2023 +0200
+
+    Screenshots
+
+[33mcommit 61d7f25c0d46e772007b6376f13e186713d782e2[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Sep 6 17:32:55 2023 +0200
+
+    Screenshots folder
+
+[33mcommit 7d87977d64c8692f8f3868417c5f26a51c63043e[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Sep 6 17:30:27 2023 +0200
+
+    start
+
+[33mcommit a5e9632fe80a40479e7dd2564241d5dcbe0eccf9[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Sep 3 19:46:01 2023 +0200
+
+    QoL improvements
+
+[33mcommit a2e6a0596c4df6be972f8dd762262d7e34d7a6de[m
+Merge: 3097c891 dee4151d
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Aug 31 16:14:53 2023 +0200
+
+    Merge branch 'AlephZeroId' into devel
+
+[33mcommit dee4151d63bbeaf53cc2ff13a3498bc3552f1fd4[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Aug 31 16:14:34 2023 +0200
+
+    TZero.ID Primary name view
+
+[33mcommit b863498eabd2136acd35775edf3fa3977319b0f9[m
+Merge: 0cba11e5 3097c891
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Aug 31 15:07:36 2023 +0200
+
+    Merge branch 'devel' into AlephZeroId
+
+[33mcommit 3097c891615286d6cba6cd17dd70e250dee8d13f[m
+Merge: 24f9898c 79c38e2c
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Aug 29 11:08:07 2023 +0200
+
+    Merge remote-tracking branch 'origin/devel' into devel
+
+[33mcommit 24f9898c037cd8096fa313b169122d74adb3f442[m
+Merge: d9861c32 a969c306
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Aug 29 11:07:44 2023 +0200
+
+    Merge branch 'master' into devel
+
+[33mcommit 79c38e2c13fc4f518ae21cea3d0649cd6bfe8088[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sun Aug 27 19:24:39 2023 +0200
+
+    new screenshots
+
+[33mcommit bd1ddf7fc885d8a1a92c5c9936b3298b7c68ff52[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sat Aug 26 22:52:43 2023 +0200
+
+    bestbackground.png
+
+[33mcommit a969c30613dc2e243af15fe01c7f971d60c78ca8[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sat Aug 26 20:04:54 2023 +0200
+
+    Update README.md
+
+[33mcommit d9861c32a08aae2c5cd1567cb3eeba6ed3a45358[m
+Merge: 23dd4a5f 32820bcd
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Aug 26 19:57:05 2023 +0200
+
+    Merge remote-tracking branch 'origin/master' into devel
+
+[33mcommit 23dd4a5f8fd5755cbc0d58783403fcf88c81ff79[m
+Merge: 225411df 69b14b60
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Aug 26 19:56:32 2023 +0200
+
+    Merge branch 'Kodadot-NFT-unlockables' into devel
+
+[33mcommit 69b14b6030ad1be4eb355996ede14afaae529db4[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Aug 26 19:56:11 2023 +0200
+
+    Kodadot unlockable added
+
+[33mcommit 81cdcca57e046272f5fab883edd706179a9b6e3c[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Aug 26 14:14:28 2023 +0200
+
+    Further optimisations
+
+[33mcommit ab6ad899b4aa2e12ef299cb042dfaa7cd8a7fd84[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Aug 26 13:07:18 2023 +0200
+
+    Further optimisations
+
+[33mcommit 1d82cba40a10d50b8b30fb975d98c461e7a8f1b9[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Aug 26 12:42:33 2023 +0200
+
+    optimisations
+
+[33mcommit 6ceece1f76f6f711b770cabfc503fb14530bf41d[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Aug 25 22:15:11 2023 +0200
+
+    a few optimisations
+
+[33mcommit 566dec708e410e52343223c11c0ac5620ebe88aa[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Aug 25 21:26:30 2023 +0200
+
+    Attributes view
+
+[33mcommit 225411df94b2393222cadab8db278e0010c49443[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Aug 25 20:17:27 2023 +0200
+
+    Show mnemonics improved
+
+[33mcommit 18b160b6fc05f28f049948a072b1e6ec8fc76804[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Aug 25 19:52:38 2023 +0200
+
+    Transfer icon changed
+
+[33mcommit 2cf4310f4a80cdbffc2f1468f9cc14ef757e1f6f[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Aug 25 19:43:27 2023 +0200
+
+    New background
+
+[33mcommit 778df741f420e0007ff92ea1b065c16cf5d6512b[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Fri Aug 25 11:50:43 2023 +0200
+
+    Update README.md
+
+[33mcommit e1809c5dbc9dd401da0ad8af987d9005e300b969[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Wed Aug 23 21:07:11 2023 +0200
+
+    btflbackgroundmiddle.png
+
+[33mcommit d251d24dd7f9cd4c92ec279cdffd751e291be4fb[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Tue Aug 22 17:04:05 2023 +0200
+
+    New background
+
+[33mcommit 96c8295fce8f57d7a201792671f98797e61e5cd9[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Aug 22 17:00:58 2023 +0200
+
+    new version
+
+[33mcommit 32820bcd11e437f697e9977f51a6e5667af533ec[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sat Aug 19 23:30:07 2023 +0200
+
+    Update README.md
+
+[33mcommit c13e9d9e64dabcd3f0bc232a39a04f2444bebcff[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sat Aug 19 22:58:37 2023 +0200
+
+    Update README.md
+
+[33mcommit fd36422f383df03d4e9f0eebe0825579c943e7c3[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Aug 19 14:24:52 2023 +0200
+
+    NFT metadata loading edge case fixed
+
+[33mcommit ec54316ade6af690bdd02c9892d4c667669e1598[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Aug 18 07:05:46 2023 +0200
+
+    Nfts update + plutonication update
+
+[33mcommit fb1b2ff96f90427a91b8bbd33a0336cd92d908f3[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Aug 17 18:36:24 2023 +0200
+
+    plutonication raw message signing update
+
+[33mcommit f6c995b1c4fe0a2dd9de785c7da59aa92fe16407[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Aug 17 18:35:50 2023 +0200
+
+    Raw message signing
+
+[33mcommit 949f145a441a8f36311e37329741e5631b8bf1e0[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Aug 17 16:24:40 2023 +0200
+
+    Plutonication payload signing fixed!
+
+[33mcommit ca443e7f0e98e8329baf04977c98b87ea363921b[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Tue Aug 15 21:17:42 2023 +0200
+
+    Update README.md
+
+[33mcommit b58275840be04d4a88e795f88381f3bdcfe071d6[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Tue Aug 15 20:44:04 2023 +0200
+
+    Update README.md
+
+[33mcommit 7e12b740c740d7dd5237e25fd3442f910acbfb27[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Tue Aug 15 20:33:00 2023 +0200
+
+    Update README.md
+
+[33mcommit 66dc48d460ff991ac8d92ffa67efa6d7a8a4178f[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Tue Aug 15 20:32:02 2023 +0200
+
+    Update README.md
+
+[33mcommit b1e22a780f8d24e36f2b203b5125c03d0bb4c59e[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Tue Aug 15 20:16:46 2023 +0200
+
+    Update README.md
+
+[33mcommit 02a57af9c22c144eea4bf92aed032f65c124edb8[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Tue Aug 15 20:12:31 2023 +0200
+
+    Update README.md
+
+[33mcommit 90db3bb033131cbcc6ff4c4f2625bb8581de3f18[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Tue Aug 15 16:08:23 2023 +0200
+
+    Update README.md
+
+[33mcommit d96165b23625546bcd3264f3889e41c5394a5950[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Tue Aug 15 16:06:46 2023 +0200
+
+    Update README.md
+
+[33mcommit d7f1fd54ad3929175935cff462617f79404c1d4f[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Aug 15 13:26:36 2023 +0200
+
+    HydraDX endpoint
+
+[33mcommit 7771a1761ced875a9b4276008aa8d5fc3944d6ad[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Aug 15 12:45:31 2023 +0200
+
+    QoL, space added
+
+[33mcommit 87e0bbd14cce4814ed9ce00c66d9b617d12fdbdf[m
+Merge: 8f154c73 f4592d9c
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Aug 15 09:32:00 2023 +0200
+
+    Merge branch 'master' into devel
+
+[33mcommit 8f154c7383f7acc0626b2bf8594f934af1cd27a7[m
+Merge: 1bb23cc8 a7c6c1f6
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Aug 15 09:29:07 2023 +0200
+
+    Merge branch 'Biometrics' into devel
+
+[33mcommit a7c6c1f6316a61cf39422f3baadd84c67bff76ac[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Aug 15 09:28:40 2023 +0200
+
+    Mnemonics page updated
+
+[33mcommit c386891606ee84bc68918d273cd09df93d7741e6[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Aug 14 10:26:45 2023 +0200
+
+    Biometrics
+
+[33mcommit f4592d9c40588e6504c224bab84ae14e30539ad1[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Aug 14 10:16:09 2023 +0200
+
+    Update README.md
+
+[33mcommit 0ea19adebe7c44de3fe78cf61e4de7e7e391a048[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Aug 14 09:27:49 2023 +0200
+
+    Update README.md
+
+[33mcommit a771dafca884e294cdfc4a998e86667fc92f5839[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sat Aug 12 23:42:27 2023 +0200
+
+    Create LICENSE
+
+[33mcommit 1bb23cc81830ce618bea0d18b3f03437393bff17[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Aug 7 20:57:55 2023 +0200
+
+    new settings page (base)
+
+[33mcommit 62d30eed4b1486edbfd0c57e9405a73f92fdef89[m
+Merge: 37fa69cb 4756e0e4
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Jul 29 03:37:10 2023 +0200
+
+    Merge branch 'ink-contracts' into devel
+
+[33mcommit 4756e0e4af306480031331c0da5913f78c911d49[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Jul 25 21:25:15 2023 +0200
+
+    Counter contract UI
+
+[33mcommit e817d0d71a5c458fba62e7fc7f1da8b1d2137747[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Tue Jul 25 05:08:08 2023 +0200
+
+    Update README.md
+
+[33mcommit 5fa2f0f344fabb8ed15535935828d3d7c3c851bc[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Jul 25 04:58:29 2023 +0200
+
+    Contract fetch state
+
+[33mcommit 3480c92db8afb1b72be99c0eac7cf1c3775282dc[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Jul 24 06:52:39 2023 +0200
+
+    First contract call
+
+[33mcommit 344b2dc42d69d738846b138e7ab36d3e1c667f10[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Jul 24 04:39:14 2023 +0200
+
+    contracts pallet
+
+[33mcommit 37fa69cbabe6806aa298a3b7c4aae3cfa21fafaa[m
+Merge: 83dc0a76 c87226d6
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Jul 24 04:19:14 2023 +0200
+
+    Merge branch 'Optimisation' into devel
+
+[33mcommit c87226d68ece6fe9101993286dc5dfa06206c79a[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Jul 24 04:17:35 2023 +0200
+
+    NFT page update
+
+[33mcommit 54403a679fa586b973a2618e94f60879292b814d[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Jul 14 15:36:47 2023 +0200
+
+    Transaction request fee calculation
+
+[33mcommit 112f04c570e4ced3aa70b906112a5eec12ab752e[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Jul 14 15:02:35 2023 +0200
+
+    improved looks of some popups
+
+[33mcommit 6111fb1bd41550d9f56c3cd4fd069828d9174c9f[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Jul 14 14:23:31 2023 +0200
+
+    any transaction request
+
+[33mcommit b91efb2aee58af8ccc72ca2f4df8c23bbb8926f8[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Jul 14 10:26:16 2023 +0200
+
+    Nft refresh view
+
+[33mcommit b1811d65d548e8000b70a1839d86da351603b0e4[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Jul 14 09:27:40 2023 +0200
+
+    Usd balance loading bug fixed
+
+[33mcommit 83dc0a7667bb176dd1e8f628f4ba6d7892b3fd9c[m
+Merge: b4a6a2ce 1be768fb
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Jul 13 18:58:40 2023 +0200
+
+    Merge branch 'NFT-page' into devel
+
+[33mcommit 1be768fbb9be07dabde040883995899257d60709[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Jul 13 18:41:32 2023 +0200
+
+    New Uniquery.Net integration
+
+[33mcommit 7529979ed6fc18d1190052a898dbdf25eff6f761[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Jul 13 14:41:52 2023 +0200
+
+    Nft loading optimisation
+
+[33mcommit 7f8d702a90560b4b4cdd5e02b7ea4410edac8a90[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Jul 10 01:59:22 2023 +0200
+
+    Nft page detail
+
+[33mcommit 4d30c67622beb98368f35bf2fb4870ee4549db4c[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Jul 3 17:05:37 2023 +0200
+
+    Uniquery.Net-OLD
+
+[33mcommit a463cdcd89d7e5599fab440a9f16306b87195660[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Jul 2 08:18:15 2023 +0200
+
+    NFT thumbnail - Show chain, favourite, more button
+
+[33mcommit a6373f524e6c75f5f0a8a9252a0b352fffd6611f[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Jul 1 21:00:28 2023 +0200
+
+    NFTs more endpoints
+
+[33mcommit b4a6a2ce59ed5d0f6ab8757881cc20e87f3fb21b[m
+Merge: deb24633 f6b6422d
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Jul 1 11:46:51 2023 +0200
+
+    Merge branch 'NFT-page' into devel
+
+[33mcommit f6b6422d1c75156ab23e62b859df34d61223a6c3[m
+Merge: 3769a1bf 5189b24c
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Jul 1 11:46:34 2023 +0200
+
+    Merge branch 'RMRK-NFTs' into NFT-page
+
+[33mcommit 5189b24ce5c35804730c20901328dd6900f88656[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Jul 1 11:46:18 2023 +0200
+
+    Bug fix
+
+[33mcommit 3aadc2e90f5b85345467021e31bd547c16bd0994[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Jul 1 07:29:23 2023 +0200
+
+    Get rmrk
+
+[33mcommit 3769a1bf8d74848e26ec982b662b41fe7ee093f2[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Jun 30 18:08:45 2023 +0200
+
+    plutonication update
+
+[33mcommit deb24633bc0b67394fb5a5fcac6f2f296886a07d[m
+Merge: 5b67f315 71ffa010
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Jun 29 19:23:07 2023 +0200
+
+    Merge branch 'NFT-page' into devel
+
+[33mcommit 71ffa010419cc645ea91464cf9867db3db28888b[m
+Merge: 5db8cb26 c9d7ca1a
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Jun 29 19:22:36 2023 +0200
+
+    Merge branch 'Uniques-NFTs' into NFT-page
+
+[33mcommit c9d7ca1aa02051bdb3aa7a9a60d77ef4fdc54adf[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Jun 29 19:22:24 2023 +0200
+
+    NFT optimisation
+
+[33mcommit ac688e633bda873e8e7cf7a93ba8d78d23dce363[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Jun 29 16:32:22 2023 +0200
+
+    uniques pallet
+
+[33mcommit 29dd011e54738ee42fd4b712b7d5473278aed66c[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Jun 29 16:28:44 2023 +0200
+
+    Uniques
+
+[33mcommit 5db8cb266db0d87b8c04d43e7c6e3ad15ff8b223[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jun 28 23:25:02 2023 +0200
+
+    Plutonication update
+
+[33mcommit 0564e3e7dac49c1f25c2c9d0f1ef2968bb3e85ba[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Jun 28 23:24:31 2023 +0200
+
+    temp plutonication update
+
+[33mcommit 5b67f3156bbd9d54f86267155c7489168b982665[m
+Merge: 197b2249 ab43dc79
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Jun 27 21:26:16 2023 +0200
+
+    Merge branch 'NFT-page' into devel
+
+[33mcommit ab43dc79ed38231cb1a73dd8a4ad21707aee8b0d[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Jun 27 21:26:00 2023 +0200
+
+    data fetching optimised
+
+[33mcommit 0bafd9a5a1007d5ac4ce545341be3d0d7db03765[m
+Merge: 4526ac35 197b2249
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Jun 27 17:04:07 2023 +0200
+
+    Merge branch 'devel' into NFT-page
+
+[33mcommit 197b22495e9ce070239b9f58ad6ebd072ea3e9d8[m
+Merge: c936aac2 4526ac35
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Jun 27 17:03:45 2023 +0200
+
+    Merge branch 'NFT-page' into devel
+
+[33mcommit c936aac26875b5b7f8f6e99215d5aeb9f6ec8363[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Jun 27 17:02:53 2023 +0200
+
+    New Plutonication
+
+[33mcommit 4526ac350256cf74f63c6cacce78610a400ef121[m
+Merge: dd527fd4 0cba11e5
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Jun 27 11:48:19 2023 +0200
+
+    Merge branch 'AlephZeroId' into NFT-page
+
+[33mcommit 0cba11e593e29c64858b32ccb9508e271ab9388b[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Jun 27 11:47:40 2023 +0200
+
+    aleph zero testnet endpoint added
+
+[33mcommit dd527fd474ff1ce1cbf09fec89e9376b9d42100b[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Jun 24 15:12:57 2023 +0200
+
+    NFT fetching logic added
+
+[33mcommit d10c942b9250783608b3e64c75b8af482918ce62[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Jun 23 12:15:32 2023 +0200
+
+    nfts pallet added
+
+[33mcommit 1b6caf1be6e8a0d2b848a669b83faa0d4f431bf4[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Jun 22 19:52:35 2023 +0200
+
+    plutonication update
+
+[33mcommit 9072b872b27e85bd6d8931ab63114f049a25e378[m
+Merge: 35ce9f0f fc7926b6
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Jun 22 19:46:02 2023 +0200
+
+    Merge branch 'PredefinedLayouts' into devel
+
+[33mcommit fc7926b64ee64f934d20c3c53e7e82f8bb3aaa06[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Jun 22 19:45:42 2023 +0200
+
+    Universal scan optimisation
+
+[33mcommit e5a6c45426160ef429e01709e3c8cb9a51c8d7ed[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Jun 22 19:22:03 2023 +0200
+
+    Predefined layouts added (with AAA mock)
+
+[33mcommit 0dd6d36a77df968c530550278fa9a5188d43676e[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Fri Jun 9 11:45:48 2023 +0200
+
+    Update README.md
+
+[33mcommit a53cf1c55c12281254989ace4ac3a52e2d56771a[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Fri Jun 9 11:42:09 2023 +0200
+
+    Update README.md
+
+[33mcommit afc40dd9dc44ae05800f969dd3a5fde09edf1625[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Jun 5 12:38:41 2023 +0200
+
+    Update README.md
+
+[33mcommit 0ac02382ab470ff1da3ae2f9f31860febd446233[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Jun 5 12:33:03 2023 +0200
+
+    Update README.md
+
+[33mcommit 36bc8910a7292b9728bfbb8facdddf5473eb8732[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Jun 5 12:28:23 2023 +0200
+
+    Update README.md
+
+[33mcommit 9cc1afa180cc40b0be659c34fdc6538886242892[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Jun 5 12:23:47 2023 +0200
+
+    Update README.md
+
+[33mcommit 3a700923d3d34bd3d2a07c4d4cc42448b318be06[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Jun 5 12:21:20 2023 +0200
+
+    Update README.md
+
+[33mcommit c6f6b8e75b623cf98d0520c83ff19b8a91a2d580[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Jun 5 12:14:40 2023 +0200
+
+    Update README.md
+
+[33mcommit 17efb37cfb6910b386a7131926d5ed3805affdda[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Jun 5 09:55:34 2023 +0200
+
+    Update README.md
+
+[33mcommit 78ce8ad60a136120f4c7cbc336411bc701ecb347[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Jun 5 09:46:50 2023 +0200
+
+    Update README.md
+
+[33mcommit cf3922cde380849921dfab13de13caffc2f0630f[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Jun 5 09:29:28 2023 +0200
+
+    Update README.md
+
+[33mcommit 35ce9f0f9d12ccb98661ae071986cd5cd3789ae7[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Jun 4 11:49:23 2023 +0200
+
+    Substrate key bug fixed
+
+[33mcommit bcd810ad541a7a1bed4b487031d678b47c8f3aff[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Jun 2 15:32:28 2023 +0200
+
+    new version
+
+[33mcommit 64eb4c2d348e5c1e33fce57204a9a0579070ae7c[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Jun 2 15:15:41 2023 +0200
+
+    Network select improvements
+
+[33mcommit c508ae13f2e4af94689cee0d0c5690746a05477b[m
+Merge: 1686931d a3615941
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Jun 2 14:37:42 2023 +0200
+
+    Merge branch 'Custom-layouts' into devel
+
+[33mcommit a3615941f77839f18ba2755a1857bc01db7ef266[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Jun 2 14:37:25 2023 +0200
+
+    Add and Delete added to CustomLayoutPage
+
+[33mcommit c018448b66b70086dd511124da03c3af66c5205f[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed May 31 13:39:25 2023 +0200
+
+    PlutoLayout polishing + CustomItemView
+
+[33mcommit 51c4e112b0a719dd5db8c62c069ced1e5f9df004[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon May 29 12:37:20 2023 +0200
+
+    PlutoLayout ordering and scanning
+
+[33mcommit 1686931dabba9d81ed4ba2d805d8325521348721[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon May 15 11:54:37 2023 +0200
+
+    android optimization
+
+[33mcommit a64b13a4e2f874ddbab0f20437fb3fbae3c0e545[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun May 14 12:26:19 2023 +0200
+
+    TransferView now accepts proper decimal numbers
+
+[33mcommit d49712006e7126891c409f4c02200ef5bf471899[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun May 14 12:25:45 2023 +0200
+
+    `ExtrinsicStatus`
+
+[33mcommit d7466c9e7567032417c00d54e3cdea0f19f3cdc5[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun May 14 08:39:13 2023 +0200
+
+    Calamar view now reacts to network change
+
+[33mcommit 7ce5d1b6bf1dc1efa3e160a5346468fa6aaf66e6[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat May 13 23:26:16 2023 +0200
+
+    Transfer and Fee calculation fix
+
+[33mcommit 26b674bf2c685883d801d86ba60a5f2b07323bae[m
+Merge: c60c705f 3ea64b9a
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu May 11 20:54:08 2023 +0200
+
+    Merge branch 'MultiNetworkSelectPage' into devel
+
+[33mcommit 3ea64b9adc00e87a0ab4d55051a09c426d3ff360[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu May 11 20:52:52 2023 +0200
+
+    NetworkSelectionPage responsive
+
+[33mcommit 1352c57fee5f084a9afc88860eb62d6a179fbc2d[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu May 11 20:03:37 2023 +0200
+
+    New MultiNetworkSelect
+
+[33mcommit c60c705fe049009f8293f07783867cc9ee116a3b[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed May 10 09:25:10 2023 +0200
+
+    Plutonication error handling
+
+[33mcommit 3fd58390a7ec58df0171ec04c864addbf1e1249d[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue May 9 21:00:53 2023 +0200
+
+    temp changes
+
+[33mcommit 457c00c9be3319c60785d13a59d663e5dddc7cc2[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon May 8 17:54:12 2023 +0200
+
+    Show assets from `Assets` pallet in BalanceView
+
+[33mcommit b52959a5694652af19ba18d0282afb98b1676b4a[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat May 6 16:06:14 2023 +0200
+
+    UsdBalanceView native balances
+
+[33mcommit 5fa702e82c47cf6c874f0f2f1c8d8e654622663a[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat May 6 10:17:50 2023 +0200
+
+    Multiple balances and group clients
+
+[33mcommit 069bd90205c3b764b31e0293b217661d32aadcd7[m
+Merge: 87b2e9f4 c2152634
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed May 3 23:12:53 2023 +0200
+
+    Merge branch 'Border-View-Performance-test' into devel
+
+[33mcommit c21526349f18d0f75c5feb79ed2afd1123c712fd[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed May 3 23:12:37 2023 +0200
+
+    Thicker padding for popups
+
+[33mcommit bee939426b7e0b190cfcd6e7e0304b1af9f8bfd8[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed May 3 23:00:42 2023 +0200
+
+    Final touches
+
+[33mcommit 565fc5f495536603f4fcd9dc7c0c6177b3b5d894[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed May 3 22:22:33 2023 +0200
+
+    Frame to Border
+
+[33mcommit 87b2e9f407c7bdee2f4123f5994a3daafb2ab0d6[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed May 3 18:12:17 2023 +0200
+
+    Further optimisations
+
+[33mcommit 41c5113f6e704e15afd860c1f23b9478ade5925e[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Apr 28 22:42:34 2023 +0200
+
+    WebView optimised for Android
+
+[33mcommit 8739aef364ae99ddfc37516bbeec9328ad560480[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Apr 28 21:11:05 2023 +0200
+
+    Working navbar + Staking dashboard optimisations
+
+[33mcommit 83c5afa0fab4569eafe825477340dd32842d7070[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Wed Apr 26 19:38:10 2023 +0200
+
+    Update README.md
+
+[33mcommit 50c3151d8059cee83a5b5aae34f85c3603e815e1[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Apr 16 11:25:53 2023 +0200
+
+    meteor support, code cleanup, navbar design
+
+[33mcommit 46bbedc7c94d25c5640cb3fa09d65cd38451be58[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Apr 16 13:53:51 2023 +0200
+
+    further fixes
+
+[33mcommit 02c63d792538eaeb8028236d9e409f65f232155f[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Apr 16 13:43:16 2023 +0200
+
+    Recent fixes
+
+[33mcommit 50c308861291961ce6cad75ab1f567cea339f16e[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Apr 13 10:37:21 2023 +0200
+
+    Connecting the chain selection to other components
+
+[33mcommit 0880af6f5076b90714966f8b6802cb916a61ab57[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Apr 10 18:28:44 2023 +0200
+
+    MultiNetworkSelect integration with other views
+
+[33mcommit 7f1f3a841539594114da0978414ec786927c80b5[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Apr 10 17:52:43 2023 +0200
+
+    Update README.md
+
+[33mcommit 8ea6a937862c4827e086cd0d3cff2099480ed225[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Apr 10 17:48:18 2023 +0200
+
+    MultiNetworkSelect options view
+
+[33mcommit ad5f3395b96361dff049bdfd82440a0c7ce61305[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Apr 9 16:21:22 2023 +0200
+
+    fixed multinetwork tapgesture for android
+
+[33mcommit 4150bcb6b55e25f297d7548b589e7e006595d631[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Apr 9 15:46:37 2023 +0200
+
+    Transfer view optimised
+
+[33mcommit c38d5910e72ff9b0a0e5e9f824a86b2bfd1ddfac[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Apr 9 15:21:50 2023 +0200
+
+    MultiNetworkSelect design
+
+[33mcommit ac3c03aad658db909c5b096bae445a82dd78584a[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Apr 8 18:19:22 2023 +0200
+
+    dApp disconnect error message
+
+[33mcommit 7bb3639514fa15f7800de23c64e041dd1258fc0a[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Apr 8 18:13:47 2023 +0200
+
+    Usd Balance design
+
+[33mcommit fe282dc81c1ee3f862dfec19fdfcffdb92381545[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Apr 8 17:14:38 2023 +0200
+
+    Extrinsic status
+
+[33mcommit 07db6e18fa474e6d7f0659a38a08bcb9cdaf5376[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Apr 8 15:56:39 2023 +0200
+
+    Staking design
+
+[33mcommit 281e62dccd67cfbadeb2cad37c5adc03034975ac[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Wed Apr 5 11:50:13 2023 +0200
+
+    Create stakingIntegration.md
+
+[33mcommit 3c634a3890fc5b4e632daa94531bb72afb3a705b[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Tue Apr 4 16:33:25 2023 +0200
+
+    Update dAppIntegration.md
+
+[33mcommit 0ee2e966f1f258c6e9f5793686e3ac1ae69799f5[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Tue Apr 4 16:32:32 2023 +0200
+
+    Update dAppIntegration.md
+
+[33mcommit 2bdba0170b3e9652bdc2a256a48e3022b4626769[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Tue Apr 4 16:32:03 2023 +0200
+
+    Create dAppIntegration.md
+
+[33mcommit a0944feb86334e639d2fab0d94b216a4a261d4b4[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Apr 4 16:26:43 2023 +0200
+
+    Fee calculation
+
+[33mcommit dae8ddf3f6f044e10bdcda50b2103f108cea9225[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Apr 1 20:31:11 2023 +0200
+
+    **Ajuna.NetApi** into **Substrate.NetApi**
+
+[33mcommit cc29ee5215ad9b48d4b486decb6d2a98ba05d1aa[m
+Merge: ac31c7fe 0598fbe7
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Apr 1 19:36:00 2023 +0200
+
+    Merge branch 'Devel' of https://github.com/RostislavLitovkin/PlutoWallet into Devel
+
+[33mcommit ac31c7fe34c21c5e5f9809bc8eb541993f461421[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Apr 1 19:34:34 2023 +0200
+
+    `Substrate.NET.API` submodule added
+
+[33mcommit 0598fbe783add762a467be6d9c00462abe755a66[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sun Mar 19 22:41:18 2023 +0100
+
+    Update presentationscript.md
+
+[33mcommit e574a5139b082b28e983487bb5555c3f001365b9[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sun Mar 19 22:33:52 2023 +0100
+
+    Update presentationscript.md
+
+[33mcommit 519f4e2776aaccb6464fd27cd033e422d47b983e[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Mar 19 22:31:26 2023 +0100
+
+    script update
+
+[33mcommit 810a0bda20c13a76a2885dcfc12a408ae3909d9a[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Mar 19 22:30:34 2023 +0100
+
+    script update
+
+[33mcommit ba6c08608fe5aaa772b7477f30ed229abb95e20b[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Mar 19 22:28:29 2023 +0100
+
+    pres script update
+
+[33mcommit cdfba0aa862f47ed5b0f748a1beae21c448b4b4b[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sun Mar 19 17:13:38 2023 +0100
+
+    Presentation script update
+
+[33mcommit edf54cc762118d3f881dbad8b916f15a06da56cc[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Mar 18 23:20:36 2023 +0100
+
+    Further polish
+
+[33mcommit 087be613c329385f8c0714f305b1a098e1094aee[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Mar 18 20:59:33 2023 +0100
+
+    Major UI improvement
+
+[33mcommit c24b352755fc8f348eea0a8d2159a3c9ca7f7ee0[m
+Merge: ceb137db a7b3ce8b
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Mar 18 14:12:02 2023 +0100
+
+    Merge remote-tracking branch 'origin/Devel' into Devel
+
+[33mcommit ceb137db94c787b7dc51eb2b8d2339109e85279a[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Mar 18 14:11:47 2023 +0100
+
+    Refactoring and optimitization
+
+[33mcommit a7b3ce8b5dad2fd04bd91739f7b9d3e8d46a161f[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Thu Mar 16 22:08:37 2023 +0100
+
+    Update README.md
+
+[33mcommit 0e80286d69d5008e46251b09cb57c997ac925ad6[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Thu Mar 16 21:48:16 2023 +0100
+
+    Update README.md
+
+[33mcommit ac1f37d76d5209b573240033ffab65765b3d9ab4[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Mar 16 19:58:52 2023 +0100
+
+    removed unnecessary zip
+
+[33mcommit bc915f8a74411b1d3975d07d581139bf4e015996[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Mar 16 19:58:25 2023 +0100
+
+    Presentation script + assets folder
+
+[33mcommit e42b681399a394203e1965649eb936624e352522[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Thu Mar 16 10:11:43 2023 +0100
+
+    Update README.md
+
+[33mcommit bbfbd18c52015a3bc269b450956190b309e81057[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Thu Mar 16 10:10:59 2023 +0100
+
+    Update README.md
+
+[33mcommit fa52f8b319e92aaefa725ac4caa3356deea66fe9[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Thu Mar 16 09:56:44 2023 +0100
+
+    Update README.md
+
+[33mcommit 8cf157a12e15074812a9125e4bbd1d38544d0c24[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Mar 16 09:51:33 2023 +0100
+
+    Centered appicon
+
+[33mcommit f37758939255dc6cd18eefb4c8dec3e18094dafe[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Mar 16 09:46:37 2023 +0100
+
+    AppIcon + new background
+
+[33mcommit 9ef1843b2f16b6ac09d605be87346e6eeede73bb[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Feb 20 15:44:00 2023 +0100
+
+    Update README.md
+
+[33mcommit 00127fe41a369a99d8fb8ba03c4b388e4791bbe6[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Feb 20 11:51:00 2023 +0100
+
+    Update README.md
+
+[33mcommit 119001618fa8b7b0925dbe56f10e9e9f57be53ba[m
+Author: Robin <robin.popov@seznam.cz>
+Date:   Fri Feb 17 23:26:00 2023 +0100
+
+    ShowPrivateKey
+
+[33mcommit 352104ee5bf6045239b6f2cf6878fc256798ba86[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Feb 17 23:09:39 2023 +0100
+
+    transfer fixed
+
+[33mcommit 5f248ea3676f38c1682705861bca9b081ff03a3e[m
+Merge: 708a0ca5 611fd177
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Feb 17 22:06:17 2023 +0100
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 708a0ca57d666aa4d6a6ccab0bba3edeeda15acb[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Feb 17 22:05:58 2023 +0100
+
+    Opal added to networks
+
+[33mcommit 611fd17775db3786b569627fa1efe569cbe53974[m
+Author: cisar2218 <69775422+cisar2218@users.noreply.github.com>
+Date:   Fri Feb 17 21:44:40 2023 +0100
+
+    Update README.md
+
+[33mcommit e133121657d11209bb4628b2bfa134f51433dec6[m
+Merge: d9e40b7c db2328ba
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Feb 17 21:42:49 2023 +0100
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit d9e40b7cb7cff02ea8e9b64d3b8124bc55ae6736[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Feb 17 21:42:32 2023 +0100
+
+    UI updates, transaction request signing,
+    network select now fully working
+
+[33mcommit db2328ba251f5906c2fb58cb035da95803d4e094[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Fri Feb 17 19:01:04 2023 +0100
+
+    Update README.md
+
+[33mcommit b359a721ce4a6f12d5786eb18ab1ae8ddd242d42[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Fri Feb 17 18:07:23 2023 +0100
+
+    Update VideoScript.md
+
+[33mcommit 5f18133bb709f57021bb0216f085a8f295b698ec[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Feb 17 17:16:13 2023 +0100
+
+    apk archiving
+
+[33mcommit b717e52b9e7dae6efd25f3aa262339cad85b2615[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Feb 17 16:57:02 2023 +0100
+
+    icon bug fixed
+
+[33mcommit 94f9a0760e42996740005dab4b800a713f110180[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Feb 17 16:00:14 2023 +0100
+
+    Other visual improvements. New icon
+
+[33mcommit 569cf9c2a7c72a1540883047feece41f4db50c28[m
+Merge: 2c5e8453 f70fa31f
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Feb 17 15:42:56 2023 +0100
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 2c5e845373bc636226c649d92e5159e2a2b11818[m
+Merge: 3238116a 62b01e9d
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Feb 17 15:42:34 2023 +0100
+
+    Merge branch 'enhancement-buton-icons'
+
+[33mcommit f70fa31f1cf2497037ed9a478d83511481384565[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Fri Feb 17 11:51:56 2023 +0100
+
+    Update VideoScript.md
+
+[33mcommit 62b01e9d5d8e5059921bcd78368b3b08f067eb07[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Feb 17 09:25:15 2023 +0100
+
+    Icon polishing
+
+[33mcommit 3238116a65d974404c202935df950e56ac894680[m
+Merge: 2e191181 84530ce4
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Feb 17 09:07:21 2023 +0100
+
+    Merge branch 'Public-key-QR-code-generation'
+
+[33mcommit 84530ce4538cb0ae892189d8142a6211990789f5[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Feb 17 09:04:33 2023 +0100
+
+    qr completed
+
+[33mcommit 2e1911818daf9cc7326687903e148c7dd8d7fdd9[m
+Merge: ca3c6deb 48ac93a4
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Feb 17 08:52:42 2023 +0100
+
+    Merge branch 'AddingEndpoints&KeyFromExistingMnemonics'
+
+[33mcommit ca3c6deb4a16882b6e5a18fca359046c5dd6aeb8[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Feb 17 08:45:19 2023 +0100
+
+    plutonication ..
+
+[33mcommit 9dc65c0425351696ae8d637d836ef6bf2dd7a6e5[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Feb 17 08:42:29 2023 +0100
+
+    Improved styles + bg image
+
+[33mcommit 48ac93a499fd78376b070bd20202341ccac3c75b[m
+Author: Dušan Jánsky <cisar2218@gmail.com>
+Date:   Fri Feb 17 01:35:26 2023 +0100
+
+    bug with picker has been fixed
+
+[33mcommit 4ea48bd0e57384c698f7c061e54faa69723c72d2[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Feb 16 22:25:28 2023 +0100
+
+    code cleanup
+
+[33mcommit 2d59805502bb06a5ecd2f35d11f6f085ab5b1290[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Feb 16 21:38:31 2023 +0100
+
+    Fixing network select
+
+[33mcommit b6f2c1e7e9e8d640cf9243e4922ee0738283d4ed[m
+Author: Dušan Jánsky <cisar2218@gmail.com>
+Date:   Thu Feb 16 19:49:45 2023 +0100
+
+    darkthemewhite color, info icon hint
+
+[33mcommit 04d45422b032ce67c9f327e36ea8b57368e69f77[m
+Author: Dušan Jánsky <cisar2218@gmail.com>
+Date:   Thu Feb 16 18:48:11 2023 +0100
+
+    calamarview - reload button
+
+[33mcommit 3bca250b046e300480b4a527120c8d72b2e06f07[m
+Author: Dušan Jánsky <cisar2218@gmail.com>
+Date:   Thu Feb 16 18:39:59 2023 +0100
+
+    TransferView - QR, Back icons
+
+[33mcommit 310b704405209b245c86798ec5358c7da0d0cdce[m
+Author: Dušan Jánsky <cisar2218@gmail.com>
+Date:   Thu Feb 16 18:00:06 2023 +0100
+
+    transfer icon
+
+[33mcommit c943c5a618934837fa019b37a6f76f2f1d6e8c0e[m
+Author: Dušan Jánsky <cisar2218@gmail.com>
+Date:   Thu Feb 16 17:47:30 2023 +0100
+
+    settings icon
+    
+    + minor changes
+
+[33mcommit 6d6f4177e5e0d217e3fd64949ce761d973d348c2[m
+Author: Dušan Jánsky <cisar2218@gmail.com>
+Date:   Thu Feb 16 16:41:22 2023 +0100
+
+    QR code button icon
+    
+    - text button replaced with icon
+
+[33mcommit 72f057114681ac348811b71767f2017d284fd3a3[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Feb 16 15:34:38 2023 +0100
+
+    Settings clean up
+
+[33mcommit eb669073b3c025457ce5bac1f07d2e3dbed8c54a[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Feb 16 15:24:08 2023 +0100
+
+    Merge conflict resolved
+
+[33mcommit a9589c61bd2118e1f2bb2d7b3843f06266dda7e0[m
+Merge: 5432a218 62ca786b
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Feb 16 15:23:48 2023 +0100
+
+    Merge branch 'master' into AddingEndpoints&KeyFromExistingMnemonics
+
+[33mcommit 5432a218e66ad589bac52f55977aaa34bff6feca[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Feb 16 15:22:04 2023 +0100
+
+    code cleanup
+
+[33mcommit d40577decabb986e980eae038b9833b2fb0118a2[m
+Author: Martinezada <marinezada@gmail.com>
+Date:   Thu Feb 16 15:06:13 2023 +0100
+
+    qr kod dodělávka
+
+[33mcommit 62ca786b79fbad6e0ff675f19abe29cf9d9adda6[m
+Merge: b744bf3b f69bfe19
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Feb 16 15:05:24 2023 +0100
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit b744bf3b7826b0666a66cf670defaec46c0c89c0[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Thu Feb 16 15:05:00 2023 +0100
+
+    Plutonication update
+
+[33mcommit f69bfe19dfe0c1565233f51067784faa1de482e8[m
+Author: cisar2218 <69775422+cisar2218@users.noreply.github.com>
+Date:   Thu Feb 16 14:55:19 2023 +0100
+
+    Update README.md
+
+[33mcommit acd5c4a5694acb5cce9895b1993f7364861a731f[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Thu Feb 16 11:38:05 2023 +0100
+
+    Update VideoScript.md
+
+[33mcommit c080444c33ef7a3d52075549d08f9958f3f15915[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Thu Feb 16 11:27:27 2023 +0100
+
+    Update VideoScript.md
+
+[33mcommit 13806a6d93d9ada8172b2f6a41e211e2ec950bad[m
+Author: Robin <robin.popov@seznam.cz>
+Date:   Wed Feb 15 23:45:41 2023 +0100
+
+    AddingEndpoints&KeyFromExistingMnemonics
+
+[33mcommit 3f304b832acac712a7f4dbe6751213a03c76101f[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Feb 15 21:48:05 2023 +0100
+
+    qr code view
+
+[33mcommit fdb9b6675a4492f2a9cc3227138115d457c30c8d[m
+Author: Martinezada <marinezada@gmail.com>
+Date:   Wed Feb 15 21:10:19 2023 +0100
+
+    Qr kod ikonka
+
+[33mcommit b9adf9bbdcc9c6a722e2774b2f1a20f2663cf935[m
+Merge: d58794ff b3b1b65e
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Wed Feb 15 19:34:09 2023 +0100
+
+    Merge pull request #4 from RostislavLitovkin/Update-calls-page
+    
+    Update calls page
+
+[33mcommit b3b1b65e47a6506a2ff01f64a68942babad6d592[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Wed Feb 15 19:33:37 2023 +0100
+
+    Update calls page
+
+[33mcommit d58794ff112db9d450e5f456e0f4dbf07fcc2fbc[m
+Author: cisar2218 <69775422+cisar2218@users.noreply.github.com>
+Date:   Wed Feb 15 10:59:27 2023 +0100
+
+    Update README.md
+    
+    grammar review of Plutonication part of README.
+
+[33mcommit 6cc1abea27f25c2d5eebef4286ee447647a925ae[m
+Author: cisar2218 <69775422+cisar2218@users.noreply.github.com>
+Date:   Wed Feb 15 10:38:12 2023 +0100
+
+    Update README.md
+
+[33mcommit c0e39641ff581e9ac43b614d8341df08243f5b48[m
+Author: cisar2218 <69775422+cisar2218@users.noreply.github.com>
+Date:   Wed Feb 15 10:31:36 2023 +0100
+
+    Update README.md
+
+[33mcommit de3f40a315ae4eb0cfd0f1e3d6c8055e391b85cc[m
+Author: cisar2218 <69775422+cisar2218@users.noreply.github.com>
+Date:   Tue Feb 14 14:51:46 2023 +0100
+
+    Update README.md
+
+[33mcommit 09f820941c319d1eb39d84e99225ba6fe98680fc[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Tue Feb 14 14:34:24 2023 +0100
+
+    Update README.md
+
+[33mcommit 7e2daeb0bf138d2b75e0fc1ec2fc7eaceb9c67da[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Tue Feb 14 14:24:06 2023 +0100
+
+    Update README.md
+
+[33mcommit 9cb87c697240ebdd232b736ab8c08d8b7bc93d8c[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Tue Feb 14 14:21:04 2023 +0100
+
+    Update README.md
+
+[33mcommit 0af200bcb57a9187c7f7264d1f7e5703ab445d1d[m
+Author: cisar2218 <69775422+cisar2218@users.noreply.github.com>
+Date:   Tue Feb 14 00:37:11 2023 +0100
+
+    Update README.md
+    
+    Plutonication progression checkmark
+
+[33mcommit 10c3322592383ae499a83ee431744ad86c78175e[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Feb 13 23:52:22 2023 +0100
+
+    Update README.md
+
+[33mcommit b898ba4977ee3743183e97755a96c8cf68673e35[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Feb 13 22:18:38 2023 +0100
+
+    Plutonication ..
+
+[33mcommit e65c2a3fe8dae7b405776dbd68ac6026371d9ad4[m
+Merge: 9ef9dca2 9dcaab20
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Feb 13 21:48:40 2023 +0100
+
+    Merge pull request #3 from RostislavLitovkin/Plutonication-integration
+    
+    Plutonication integration
+
+[33mcommit 9dcaab20812ba394b415bfe642298a12b4f5784b[m
+Merge: ef60ae2e 9ef9dca2
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Feb 13 21:48:29 2023 +0100
+
+    Merge branch 'master' into Plutonication-integration
+
+[33mcommit ef60ae2e190b6b66bc0c5e25911cdc2b9de1bb4c[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Mon Feb 13 21:39:20 2023 +0100
+
+    Plutonication + UI improvements + calamar
+
+[33mcommit 9ef9dca216e7f7a482139858c21793a975acdcb4[m
+Author: cisar2218 <69775422+cisar2218@users.noreply.github.com>
+Date:   Mon Feb 13 18:04:15 2023 +0100
+
+    Update README.md
+    
+    Plutonication task progression checks
+
+[33mcommit abea70ce96e31e346f07f849c8bc6d0f215225d8[m
+Author: cisar2218 <69775422+cisar2218@users.noreply.github.com>
+Date:   Mon Feb 13 12:47:50 2023 +0100
+
+    Update README.md
+    
+    Plutonication tasks
+
+[33mcommit f096bb03b330551d1dd57568ff3387d1ecd475e9[m
+Author: cisar2218 <69775422+cisar2218@users.noreply.github.com>
+Date:   Sun Feb 12 23:49:50 2023 +0100
+
+    Update README.md
+
+[33mcommit c66cef2dc793b1d5b7ae7434ae96c4e21586e5e2[m
+Author: cisar2218 <69775422+cisar2218@users.noreply.github.com>
+Date:   Sat Feb 11 22:04:54 2023 +0100
+
+    Update README.md
+    
+    link to Plutonication
+
+[33mcommit 35d6e0cd0b9565cea1d628369fae2301015284c6[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sat Feb 11 20:57:30 2023 +0100
+
+    Create README.md
+
+[33mcommit adefa9b0380182270fcf795a4de592fa482c84c6[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sat Feb 11 20:41:49 2023 +0100
+
+    Update README.md
+
+[33mcommit a39fa1cd23c4515603ef2dfc03798db680a77c8c[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sat Feb 11 20:38:35 2023 +0100
+
+    Update README.md
+
+[33mcommit d0b53c258e6aef42d6728c09ac1cc8788a983ad8[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sat Feb 11 20:20:41 2023 +0100
+
+    Create VideoScript.md
+
+[33mcommit b82b121195144395eda7baf1a270bcb93998784f[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sat Feb 11 20:17:25 2023 +0100
+
+    Create VideoScript.md
+
+[33mcommit 92ec5199c83107f30cdbbf165a1bdf89a1ae5cad[m
+Author: Robin <robin.popov@seznam.cz>
+Date:   Sat Feb 11 17:44:12 2023 +0100
+
+    Write numbers before mnemonics
+
+[33mcommit 83da0b5793505f639fac43ea6f2fb9061e7256bd[m
+Author: cisar2218 <69775422+cisar2218@users.noreply.github.com>
+Date:   Sat Feb 11 17:37:41 2023 +0100
+
+    Update README.md
+
+[33mcommit 0bbb7c4ca5b23423d3b21dc531f1860b68e8aeb5[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Feb 11 17:00:32 2023 +0100
+
+    code clean up
+
+[33mcommit efb642d475629caee7e5ffd94f58abde94e0509b[m
+Author: cisar2218 <69775422+cisar2218@users.noreply.github.com>
+Date:   Sat Feb 11 16:13:17 2023 +0100
+
+    Update README.md
+    
+    git submodule update description
+
+[33mcommit d425d602986cdc7202c134c63fe5caa04920597d[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Feb 11 16:09:41 2023 +0100
+
+    submodule Plutonication updated
+
+[33mcommit f2171da1a768d6b2740f1f224c135fda9ce5a96b[m
+Merge: 3765b121 eee602e7
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Feb 11 16:04:02 2023 +0100
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 3765b121b9fce02ca5b052b62b4b313ad8e6d14f[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Feb 11 16:02:36 2023 +0100
+
+    Added QR scanning
+
+[33mcommit eee602e795a0b9a17526a9ebb0dd7de7d082586e[m
+Author: cisar2218 <69775422+cisar2218@users.noreply.github.com>
+Date:   Sat Feb 11 15:19:57 2023 +0100
+
+    Update README.md
+
+[33mcommit ade94e7cc0d7f5bf115a8be07c753142f17ea123[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sat Feb 11 12:03:48 2023 +0100
+
+    Update README.md
+
+[33mcommit c0a75a3f3298fd698c8aa55ad34502708b601c0e[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sat Feb 11 11:55:52 2023 +0100
+
+    Update README.md
+
+[33mcommit 5b5decded33c3c6efdd7d74d28c3855779e00529[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sat Feb 11 11:45:07 2023 +0100
+
+    Update README.md
+
+[33mcommit e1a722d8b7a9eaf655cf223a09df46b37d2c1d5f[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sat Feb 11 11:41:20 2023 +0100
+
+    Update README.md
+
+[33mcommit 75b4ebbe365096173f9fdae85a75a5495979468f[m
+Author: cisar2218 <69775422+cisar2218@users.noreply.github.com>
+Date:   Sat Feb 11 00:16:45 2023 +0100
+
+    Update README.md
+
+[33mcommit 6019841583ec2cad50649d03be51bd8f99ce95f3[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Fri Feb 10 23:42:04 2023 +0100
+
+    Update README.md
+
+[33mcommit b47e5be11ee9eda74ee332312c86d4ac5ee338f4[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Fri Feb 10 23:21:52 2023 +0100
+
+    Update README.md
+
+[33mcommit a68e56a0704ae8584d23de0e34e8e61b8d1fb712[m
+Merge: edffaa3d 94110b52
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Fri Feb 10 19:35:18 2023 +0100
+
+    Merge pull request #2 from RostislavLitovkin/PlutoWalletBasics
+    
+    Pluto wallet basics
+
+[33mcommit 94110b52bb0103085c31b555a322f09c4087ceaa[m
+Merge: 964587b1 edffaa3d
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Fri Feb 10 19:35:09 2023 +0100
+
+    Merge branch 'master' into PlutoWalletBasics
+
+[33mcommit 964587b187d7c9dd2b86304b8d47d69535a29f9d[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Feb 10 19:29:10 2023 +0100
+
+    All the basic functionalities
+
+[33mcommit edffaa3d4aed0269524a969612b646617833dc18[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Fri Feb 10 19:20:46 2023 +0100
+
+    Update README.md
+
+[33mcommit 5bfeca4c37e4344dd2c96aeae70415353e85de52[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Fri Feb 10 08:45:10 2023 +0100
+
+    Update README.md
+
+[33mcommit 3968111022ce19fbf839827e00db24be56328e84[m
+Author: cisar2218 <69775422+cisar2218@users.noreply.github.com>
+Date:   Thu Feb 9 22:38:59 2023 +0100
+
+    Update README.md
+
+[33mcommit 593142b195cf4d167be23a6a8812342abdcb050f[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Thu Feb 9 22:14:03 2023 +0100
+
+    Update README.md
+
+[33mcommit 0c9a4aaaf603495fd4da4d89a208beb8ae61348b[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Thu Feb 9 08:45:13 2023 +0100
+
+    Update README.md
+
+[33mcommit cb8af28682742df586259b6d69c9d62ad4505233[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Thu Feb 9 07:20:40 2023 +0100
+
+    Update README.md
+
+[33mcommit e1fd3f60e2722e88d2ddfc105b032c1bfcfe4b95[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Tue Feb 7 20:26:26 2023 +0100
+
+    Update README.md
+
+[33mcommit ce29b4c95cca774a1107016844cc353dd89a4fa1[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Mon Feb 6 12:31:40 2023 +0100
+
+    Update README.md
+
+[33mcommit 9b9cc1b091a0359f8701d1c8ba7714162bbaa533[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sun Feb 5 17:30:30 2023 +0100
+
+    Update README.md
+
+[33mcommit 96bf74511de861e612b22952b3636ef28580bfcc[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sun Feb 5 17:29:26 2023 +0100
+
+    Update README.md
+
+[33mcommit f0eb26138610c3a4b22d262805dcff39e04d42bc[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sun Feb 5 17:27:54 2023 +0100
+
+    Update README.md
+
+[33mcommit f0024fd30b883bcf720c02daef6b2c9146fb8917[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sun Feb 5 17:27:25 2023 +0100
+
+    Update README.md
+
+[33mcommit ecf81e9a44258f59756f09e62ed1af778ed6a035[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Sun Feb 5 17:19:32 2023 +0100
+
+    Update README.md
+
+[33mcommit 5da63aea17185a40c77a186c41bed6e4cb3cc24e[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Sat Feb 4 00:55:28 2023 +0100
+
+    AddMnemonicsGeneration
+
+[33mcommit 6ebb4189f441b81d6e56474a0859bd24c113c162[m
+Merge: d96d1636 97265e29
+Author: cisar2218 <69775422+cisar2218@users.noreply.github.com>
+Date:   Fri Feb 3 12:08:50 2023 +0100
+
+    Merge pull request #1 from RostislavLitovkin/PlutonicationLibDev
+    
+    Plutonication lib dev (addition of submodule - Plutonication library)
+
+[33mcommit 97265e2915fa1096b07f4346fd3fb051fe6e40d8[m
+Author: Dušan Jánsky <cisar2218@gmail.com>
+Date:   Fri Feb 3 11:59:26 2023 +0100
+
+    [minor changes] testing text edited
+    
+    +subomodule fetch of changes
+
+[33mcommit f18f6314fa2338c4f045a9bf3ff44beb0c26f3b4[m
+Author: Dušan Jánsky <cisar2218@gmail.com>
+Date:   Fri Feb 3 11:41:27 2023 +0100
+
+    Plutonication submodule added
+
+[33mcommit 0e24f1dc7213c46c0058ae58d65eb7ac5b5e0035[m
+Author: Dušan Jánsky <cisar2218@gmail.com>
+Date:   Fri Feb 3 11:40:36 2023 +0100
+
+    Removement of class library
+    
+    - step before separation into submodule
+
+[33mcommit a2fd5aee7f97f14b521f0a6367c3ed86752ef3ae[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Feb 3 11:35:32 2023 +0100
+
+    communication
+
+[33mcommit 3f6936f487d5e6564c51849a341f203c60f77567[m
+Author: rostislavlitovkin <rostislavlitovkin@gmail.com>
+Date:   Fri Feb 3 11:31:10 2023 +0100
+
+    communication description
+
+[33mcommit d96d1636b0cad0c9e89ad88c7b2f77f1beeea66f[m
+Author: cisar2218 <69775422+cisar2218@users.noreply.github.com>
+Date:   Wed Feb 1 23:24:44 2023 +0100
+
+    Update README.md
+
+[33mcommit cd9ed529bcbdb9f31424edd419f2a39b4d614cd4[m
+Author: Dušan Jánsky <cisar2218@gmail.com>
+Date:   Wed Feb 1 23:20:01 2023 +0100
+
+    Plutonication init
+    
+    - solution (.net maui class library) added to project
+    - created and tested methods that:
+    1. opens endpoint at local host and starts listening at specified port
+    2. connects to (1.) via local host
+    - note: no data transfer yet
+
+[33mcommit 3b7ecd28de29b753f410a747f5aa084a9fcc3372[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Wed Feb 1 17:48:57 2023 +0100
+
+    Update README.md
+
+[33mcommit 45825f51b9dfb1eab50e193ad6624b58934a90b9[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Wed Feb 1 09:37:48 2023 +0100
+
+    Update README.md
+
+[33mcommit 236bddc4a8850b3735269f1f95e7ed540bd63660[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Wed Feb 1 09:34:46 2023 +0100
+
+    Update README.md
+
+[33mcommit 304676f33c5fb35a6ce5a1bc17bc783373b818fc[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Wed Feb 1 09:32:11 2023 +0100
+
+    Update README.md
+
+[33mcommit 8cd6c1bd83c5132816b909b8233c3bf2c20a39fa[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Wed Feb 1 09:06:45 2023 +0100
+
+    Update README.md
+
+[33mcommit 03bc27e4176a9c547518bd545ef4da79f74daa9f[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Wed Feb 1 09:06:19 2023 +0100
+
+    Update README.md
+
+[33mcommit 46c76d3ddfef3c4ff13755c79c4bdc40d5c3fd4c[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Wed Feb 1 08:57:22 2023 +0100
+
+    Update README.md
+
+[33mcommit 8078b909a80c9a35e7613911df1f66619cc3b24f[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Wed Feb 1 08:40:20 2023 +0100
+
+    Update README.md
+
+[33mcommit cc72c5599241bf31da629b1cd708f23fc596612f[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Wed Feb 1 08:38:57 2023 +0100
+
+    Update README.md
+
+[33mcommit 09b1bfa4a43a1cbe025e6383858724061e8a703b[m
+Author: cisar2218 <69775422+cisar2218@users.noreply.github.com>
+Date:   Wed Feb 1 00:36:18 2023 +0100
+
+    Update README.md - websocket solution
+    
+    - concrete object structure defined
+    - not final, just light plan
+
+[33mcommit b5217914d9063c8ff8f81ff55730831d56c08756[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Wed Feb 1 00:01:47 2023 +0100
+
+    Update README.md
+
+[33mcommit 86179d569cdc1d1ddb340222066051437291e4f4[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Tue Jan 31 18:14:47 2023 +0100
+
+    Update README.md
+
+[33mcommit 871a0b34b1efa67d6f8dac8565efeedc7d43966f[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Tue Jan 31 18:13:25 2023 +0100
+
+    Update README.md
+
+[33mcommit 82097368f92795e3b4b4170cd5187d5786e205a9[m
+Author: Rostislav Litovkin <77352013+RostislavLitovkin@users.noreply.github.com>
+Date:   Tue Jan 31 18:11:33 2023 +0100
+
+    Update README.md
+
+[33mcommit 51e1cb8e71d3d0f44570d1d39ab9fc199d7088d8[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Jan 31 18:07:17 2023 +0100
+
+    Add project files.
+
+[33mcommit e273104de219983f8c190a8bf7511a3a499cb151[m
+Author: Rostislav Litovkin <rostislavlitovkin@gmail.com>
+Date:   Tue Jan 31 18:07:15 2023 +0100
+
+    Add .gitattributes, .gitignore, and README.md.
