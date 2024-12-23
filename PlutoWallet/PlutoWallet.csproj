@@ -11,6 +11,7 @@
 		<SingleProject>true</SingleProject>
 		<ImplicitUsings>enable</ImplicitUsings>
     <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+	<WindowsAppSdkDeploymentManagerInitialize>false</WindowsAppSdkDeploymentManagerInitialize>
 
 		<!-- Display name -->
 		<ApplicationTitle>Pluto wallet</ApplicationTitle>
@@ -129,6 +130,7 @@
 	  <None Remove="Components\ConnectionRequestView\" />
 	  <None Remove="ZXing.Net.Maui.Controls" />
 	  <None Remove="Components\UniversalScannerView\" />
+	  <None Remove="Components\AddressRegistry\" />
 	  <None Remove="Components\MessagePopup\" />
 	  <None Remove="Components\TransactionRequest\" />
 	  <None Remove="Components\CalamarView\" />
@@ -391,6 +393,9 @@
 	  <BundleResource Include="Resources\Images\GalaxyLogicGame\galaxylogo.png" />
 	</ItemGroup>
 	<ItemGroup>
+	  <MauiXaml Update="Components\AddressRegistry\SaveAddressPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Components\AddressView\AddressQrCodeView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
@@ -572,6 +577,7 @@
 	</ItemGroup>
 	<ItemGroup>
 	  <Folder Include="Components\NetworkSelect\" />
+	  <Folder Include="Components\NewFolder\" />
 	  <Folder Include="Components\TransferView\" />
 	  <Folder Include="Components\ConnectionRequestView\" />
 	  <Folder Include="Components\UniversalScannerView\" />

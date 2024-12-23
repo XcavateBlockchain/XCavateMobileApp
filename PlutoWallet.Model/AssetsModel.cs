@@ -67,7 +67,7 @@ namespace PlutoWallet.Model
             {
                 var accountInfo = await GetNativeBalance(client.SubstrateClient, substrateAddress, token);
 
-                amount = (double)accountInfo.Data.Free.Value / Math.Pow(10, endpoint.Decimals);
+                amount = 0; // (double)accountInfo.Data.Free.Value / Math.Pow(10, endpoint.Decimals);
             }
             catch
             {

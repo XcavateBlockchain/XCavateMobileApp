@@ -39,7 +39,7 @@
                         TextColor="{AppThemeBinding Light=Black, Dark=White}"
                         Text="Unknown"
                        Grid.Column="1"/>
-                <Image 
+                <Image
                         x:Name="subscanIcon"
                         Source="subscanicon.png"
                        Grid.Column="2"
@@ -54,14 +54,25 @@
             <Entry Placeholder="Address / AZERO.ID"
                     AbsoluteLayout.LayoutBounds="0, 40, 1, 40"
                     AbsoluteLayout.LayoutFlags="WidthProportional"
-                    Margin="0, 0, 45, 0"
+                    Margin="0, 0, 85, 0"
                     x:Name="addressEntry"
                     TextColor="{AppThemeBinding Light=Black, Dark=White}"
                     PropertyChanged="OnEntryPropertyChanged"
                     IsSpellCheckEnabled="false"
                     IsTextPredictionEnabled="false"/>
 
-            <!--QR code button-->
+                <!--Add user button-->
+            <ImageButton
+                AbsoluteLayout.LayoutBounds="0.97, 40, 40, 40"
+                AbsoluteLayout.LayoutFlags="XProportional"
+                x:Name="adduser"
+                Source="{AppThemeBinding Light=adduserblack.png, Dark=adduserwhite.png}"
+                Margin="5, 5, 5, 5"
+                Clicked="OnAddUserClicked"
+                >
+            </ImageButton>
+
+                <!--QR code button-->
             <Image
                 AbsoluteLayout.LayoutBounds="1, 40, 40, 40"
                 AbsoluteLayout.LayoutFlags="XProportional"

@@ -3,6 +3,7 @@ using PlutoWallet.Components.UniversalScannerView;
 using AzeroIdResolver;
 using Substrate.NetApi;
 using PlutoWallet.Components.WebView;
+using PlutoWallet.Components.AddressRegistry;
 
 namespace PlutoWallet.Components.Identity;
 
@@ -29,6 +30,16 @@ public partial class IdentityAddressView : ContentView
         var control = (IdentityAddressView)bindable;
 
         control.addressEntry.Text = (string)newValue;
+
+        try
+        {
+            Utils.GetPublicKeyFrom((string)newValue);
+            control.adduser.IsEnabled = true;
+        }
+        catch
+        {
+            control.adduser.IsEnabled = false;
+        }
 
         // I had to duplicate these lines because of a weird error on Android.
         if (((string)newValue).Contains("."))
@@ -228,6 +239,11 @@ public partial class IdentityAddressView : ContentView
         {
             OnScannedMethod = OnScanned
         });
+    }
+
+    async void OnAddUserClicked(System.Object sender, System.EventArgs e)
+    {
+        await Navigation.PushAsync(new SaveAddressPage(Address));
     }
 
     private async void OnEntryPropertyChanged(System.Object sender, System.ComponentModel.PropertyChangedEventArgs e)
